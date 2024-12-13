@@ -12,7 +12,10 @@
   <a href="#agradecimentos">Agradecimentos</a>
 </p>
 
-[Adicionar imagens]
+<p align="center">
+   <img align="center" text-align="center" width="40%" style="margin-right:50px;" src="https://github.com/MatheusPaivaa/StCharles_Racing/blob/main/imgs/home.png">
+   <img align="center" text-align="center" width="40%" src="https://github.com/MatheusPaivaa/StCharles_Racing/blob/main/imgs/game.png">
+</p>
 
 <p align="center">
 Este projeto tem como objetivo implementar o jogo "St. Charles Racing", utilizando o Assembly do processador desenvolvido pelo professor Simões, no contexto da disciplina de Prática em Organização de Computadores. Além de codificar o jogo, foi projetada e implementada uma nova funcionalidade para o processador, ampliando suas capacidades e explorando os desafios do desenvolvimento em baixo nível. Este trabalho visa demonstrar a integração entre a criação de software para sistemas embarcados e a extensão de funcionalidades de hardware, proporcionando uma experiência prática em organização de computadores e programação em Assembly.
