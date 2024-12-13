@@ -3852,15 +3852,16 @@ main:
 
 ;Função que inicia o jogo
 startGame:
-  call ApagaTela
+  call ApagaTela ; Apaga a tela principal
 
-  loadn R0, #mapa_principal
-  call prinTela
+  loadn R0, #mapa_principal ; Carrega o mapa principal
+  call prinTela ; Imprime o mapa principal
 
   ; Definir posição inicial do personagem principal
   loadn R0, #1019
-  store posCarro, R0
-  store posAntCarro, R0
+
+  store posCarro, R0 ; Posição inicial do personagem principal
+  store posAntCarro, R0 ; Posição inicial do personagem principal (anterior)
 
   loadn R0, #0			; Contador para os Mods	= 0
 	loadn R2, #0			; Para verificar se (mod(c/10)==0
@@ -3868,13 +3869,13 @@ startGame:
   load R4, dif			; Dificuldade
 
   cmp R4, R0
-  ceq ajusteDif
+  ceq ajusteDif ; Se a dificuldade for 0, ajusta para 1
 
-  call desenhaCarro
+  call desenhaCarro ; Desenha o carro na posição inicial
 
   loopPrincipal:
 
-      loadn R1, #5
+      loadn R1, #20 ; Podemos ajustar a velocidade do carro aqui
       mod R1, R0, R1
       cmp R1, R2		; if (mod(c/10)==0
       ceq MoveCarro	; Chama Rotina de movimentacao da Nave
@@ -3886,22 +3887,25 @@ startGame:
       ceq Pontua    ; Chama Rotina de Pontuação
 
       call Delay          ; Adiciona um atraso para suavizar a movimentação
-      inc R0
-      jmp loopPrincipal
+      inc R0 ; Incrementa o contador de Mods
+      jmp loopPrincipal ; Loop
 
   rts
 
+;Função que ajusta a dificuldade
 ajusteDif:
   loadn R4, #1
   store dif, R4
   rts
 
+;Função que pontua
 Pontua: 
     call PrintPontos
     call IncrementaPontos
 
     rts
 
+;Função que imprime os pontos
 PrintPontos:
     push R5
     push R6
@@ -3916,11 +3920,13 @@ PrintPontos:
 
     rts
 
+;Função que incrementa os pontos
 IncrementaPontos:
     Inc R3        ; Pontos++
 
     rts
 
+;Função que imprime um número
 MoveCarro:
     push R0
     push R1
@@ -3931,9 +3937,9 @@ MoveCarro:
     load R0, posCarro
     load R1, posAntCarro
     cmp R0, R1
-    jeq MoveCarro_Skip
-        call apagarperso_principal
-        call desenhaCarro
+    jeq MoveCarro_Skip 
+        call apagarperso_principal ; Apaga o carro
+        call desenhaCarro ; Desenha o carro
 
     MoveCarro_Skip:
 
@@ -3941,6 +3947,7 @@ MoveCarro:
       pop R0
       rts
 
+;Função que recalcular a posição do carro
 MoveCarro_RecalculaPos:
     push R0
     push R1
@@ -3949,16 +3956,17 @@ MoveCarro_RecalculaPos:
     load R0, posCarro
 
     inchar R1               ; Lê o teclado para controlar o personagem
-    loadn R2, #'a'
+    loadn R2, #'a'         ; Move para a esquerda
     cmp R1, R2
     jeq MoveCarro_Left
 
-    loadn R2, #'d'
+    loadn R2, #'d'         ; Move para a direita
     cmp R1, R2
     jeq MoveCarro_Right
 
     jmp MoveCarro_End
 
+; Movimenta o carro para a esquerda
 MoveCarro_Left:
     loadn R2, #1007
     cmp R0, R2              ; Testa se está no limite esquerdo
@@ -3966,6 +3974,7 @@ MoveCarro_Left:
     dec R0                  ; Move para a esquerda
     jmp MoveCarro_End
 
+; Movimenta o carro para a direita
 MoveCarro_Right:
     loadn R2, #1030
     cmp R0, R2              ; Testa se está no limite direito
@@ -3973,14 +3982,15 @@ MoveCarro_Right:
     inc R0                  ; Move para a direita
     jmp MoveCarro_End
 
+; Fim da função de movimentação do carro
 MoveCarro_End:
-    store posCarro, R0
+    store posCarro, R0 ; Atualiza a posição do carro
     pop R2
     pop R1
     pop R0
     rts
 
-;Função que desenha o carro
+; Função que desenha o carro
 desenhaCarro:
   push R0
   push R1
@@ -4022,6 +4032,7 @@ desenhaCarro:
   pop R0
   rts
 
+;Função que apaga o carro
 apagarperso_principal:
   push R0
   push R1
