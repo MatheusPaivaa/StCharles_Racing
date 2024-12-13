@@ -21,6 +21,25 @@
 Este projeto tem como objetivo implementar o jogo "St. Charles Racing", utilizando o Assembly do processador desenvolvido pelo professor Simões, no contexto da disciplina de Prática em Organização de Computadores. Além de codificar o jogo, foi projetada e implementada uma nova funcionalidade para o processador, ampliando suas capacidades e explorando os desafios do desenvolvimento em baixo nível. Este trabalho visa demonstrar a integração entre a criação de software para sistemas embarcados e a extensão de funcionalidades de hardware, proporcionando uma experiência prática em organização de computadores e programação em Assembly.
 </p>
 
+## <div id="estrutura-do-projeto"></div>Estrutura do Projeto
+
+Em construção...
+
+## <div id="instalacao"></div>Instalação
+
+Em construção...
+
+## <div id="uso"></div>Uso
+
+Em construção...
+
+## <div id="pontos_importantes"></div>Pontos importantes
+
+Em construção...
+
+## <div id="processador"></div>Processador
+
+Em construção...
 
 ## <div id="video"></div>Vídeo de apresentação
 Link: [Adicionar]
