@@ -1459,7 +1459,7 @@ dificuldade : var #1200
   static dificuldade + #183, #127
   static dificuldade + #184, #127
   static dificuldade + #185, #127
-  static dificuldade + #186, #1919
+  static dificuldade + #186, #127
   static dificuldade + #187, #127
   static dificuldade + #188, #127
   static dificuldade + #189, #127
@@ -1499,11 +1499,11 @@ dificuldade : var #1200
   static dificuldade + #221, #58
   static dificuldade + #222, #127
   static dificuldade + #223, #127
-  static dificuldade + #224, #127
-  static dificuldade + #225, #123
-  static dificuldade + #226, #22
-  static dificuldade + #227, #125
-  static dificuldade + #228, #127
+  static dificuldade + #224, #123
+  static dificuldade + #225, #97
+  static dificuldade + #226, #127
+  static dificuldade + #227, #100
+  static dificuldade + #228, #125
   static dificuldade + #229, #127
   static dificuldade + #230, #127
   static dificuldade + #231, #127
