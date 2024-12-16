@@ -23,7 +23,20 @@ Este projeto tem como objetivo implementar o jogo "St. Charles Racing", utilizan
 
 ## <div id="estrutura-do-projeto"></div>Estrutura do Projeto
 
-Em construção...
+Abaixo está a estrutura do projeto com uma breve explicação do conteúdo de cada pasta:
+
+- **imgs/**  
+  Contém as imagens utilizadas no README para ilustrar e documentar o projeto.
+
+- **assets/**  
+  Armazena os arquivos `.asm` referentes ao personagem principal e aos inimigos do projeto.
+
+- **src/**  
+  Contém o arquivo `.asm` principal do projeto, onde está o código-fonte central.
+
+- **tools/**  
+  Guarda as ferramentas necessárias para o desenvolvimento e teste do projeto, incluindo o montador, o simulador e o charmap.
+  
 
 ## <div id="instalacao"></div>Instalação
 
@@ -31,7 +44,126 @@ Em construção...
 
 ## <div id="uso"></div>Uso
 
-Em construção...
+### **Variáveis Principais**
+
+- **dif**: `var #1`  
+  Armazena a dificuldade do jogo, podendo ser ajustada para **1 (fácil)**, **2 (médio)** ou **3 (difícil)**.
+
+- **posCarro**: `var #1`  
+  Contém a posição atual do personagem principal.
+
+- **posAntCarro**: `var #1`  
+  Contém a posição anterior do personagem principal.
+
+- **Inimigos**  
+  Cada inimigo possui variáveis individuais para sua posição e velocidade:
+  - **posInimigoX**: Contém a posição atual do inimigo X (onde X = 1, 2, 3, 4).  
+  - **posAntInimigoX**: Contém a posição anterior do inimigo X.  
+  - **velInimigoX**: Contém a velocidade do inimigo X.  
+
+- **score**: `var #1`  
+  Armazena a pontuação atual do jogador.
+
+---
+
+### **Código Principal**
+
+1. **Tela Principal (`main`)**  
+   A função principal do jogo realiza as seguintes ações:
+   - Exibe a tela inicial com as opções:
+     - **1**: Iniciar o jogo  
+     - **2**: Configurar a dificuldade  
+     - **3**: Sair  
+   - Aguarda a entrada do usuário e direciona para a função correspondente.
+
+---
+
+### **Funções Importantes**
+
+1. **`startGame`**  
+   Inicia o jogo:
+   - Apaga a tela principal e imprime o **mapa principal**.
+   - Inicializa os inimigos e o personagem principal.  
+   - Define os contadores de pontuação e velocidade.  
+   - Entra no loop principal de controle do jogo:  
+     - Move o personagem (com base na entrada do teclado).  
+     - Move os inimigos verticalmente.  
+     - Ajusta a pontuação e a dificuldade com o tempo.  
+     - Detecta colisões.
+
+2. **`inicializaInimigos`**  
+   Configura a posição inicial e a velocidade dos 4 inimigos.
+
+3. **`ajustarVelocidades`**  
+   Ajusta a velocidade dos inimigos de acordo com a dificuldade escolhida pelo jogador.
+
+4. **`MoveCarro`**  
+   Controla o movimento do personagem principal.  
+   - **`MoveCarro_RecalculaPos`**: Recalcula a posição do personagem com base na entrada de teclado ('a' para esquerda, 'd' para direita).  
+   - Apaga a posição anterior e redesenha o personagem.
+
+5. **`MoveInimigoX`**  
+   Controla o movimento vertical de cada inimigo:
+   - Move o inimigo para baixo.  
+   - Quando o limite da tela é atingido, reposiciona o inimigo no topo.
+
+6. **`DetectaColisao`**  
+   Detecta colisões entre o personagem principal e os inimigos:
+   - Utiliza vetores de sobreposição para verificar posições.
+
+7. **`rotinaDerrota`**  
+   Aciona a tela de derrota quando ocorre uma colisão:
+   - Exibe a pontuação final.  
+   - Permite reiniciar o jogo ou retornar ao menu principal.
+
+8. **`config`**  
+   Tela de configuração onde o jogador pode ajustar a dificuldade:  
+   - **1**: Fácil  
+   - **2**: Médio  
+   - **3**: Difícil  
+   - **4**: Voltar ao menu principal.
+
+  <p align="center">
+     <img align="center" text-align="center" width="40%" style="margin-right:50px;" src="https://github.com/MatheusPaivaa/StCharles_Racing/blob/main/imgs/config.png">
+  </p>
+
+9. **`ApagaTela`**  
+   Apaga a tela atual.
+
+10. **`prinTela`**  
+    Imprime a tela com base em um mapa armazenado na memória.
+
+11. **`PrintPontos` e `Pontua`**  
+    Atualizam e imprimem a pontuação do jogador.
+
+12. **`Delay`**  
+    Adiciona um atraso para suavizar os movimentos no jogo.
+
+---
+
+### **Fluxo Geral do Jogo**
+
+1. O jogador inicia o jogo na **tela principal** e escolhe uma das opções.
+<p align="center">
+   <img align="center" text-align="center" width="40%" style="margin-right:50px;" src="https://github.com/MatheusPaivaa/StCharles_Racing/blob/main/imgs/home.png">
+</p>
+
+2. Ao iniciar o jogo:
+   - O personagem pode se mover horizontalmente usando **'a'** e **'d'**.  
+   - Os inimigos descem verticalmente.  
+   - A velocidade aumenta conforme a dificuldade e o tempo.  
+3. O sistema detecta colisões entre o personagem e os inimigos. 
+
+<p align="center">
+   <img align="center" text-align="center" width="40%" src="https://github.com/MatheusPaivaa/StCharles_Racing/blob/main/imgs/game.png">
+</p>
+
+4. Caso ocorra uma colisão, o jogo exibe a **tela de derrota** com a pontuação final.  
+5. O jogador pode reiniciar ou sair do jogo.
+
+<p align="center">
+   <img align="center" text-align="center" width="40%" style="margin-right:50px;" src="https://github.com/MatheusPaivaa/StCharles_Racing/blob/main/imgs/derrota.png">
+</p>
 
 ## <div id="pontos_importantes"></div>Pontos importantes
 
