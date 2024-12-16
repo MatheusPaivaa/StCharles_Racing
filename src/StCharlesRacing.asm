@@ -2557,10 +2557,10 @@ mapa_principal : var #1200
   static mapa_principal + #28, #23
   static mapa_principal + #29, #3967
   static mapa_principal + #30, #3967
-  static mapa_principal + #31, #3967
-  static mapa_principal + #32, #3967
-  static mapa_principal + #33, #2055
-  static mapa_principal + #34, #1795
+  static mapa_principal + #31, #2055
+  static mapa_principal + #32, #1795
+  static mapa_principal + #33, #771
+  static mapa_principal + #34, #771
   static mapa_principal + #35, #771
   static mapa_principal + #36, #771
   static mapa_principal + #37, #771
@@ -2599,10 +2599,10 @@ mapa_principal : var #1200
   static mapa_principal + #68, #127
   static mapa_principal + #69, #3967
   static mapa_principal + #70, #3967
-  static mapa_principal + #71, #3967
-  static mapa_principal + #72, #3967
-  static mapa_principal + #73, #2055
-  static mapa_principal + #74, #1795
+  static mapa_principal + #71, #2055
+  static mapa_principal + #72, #1795
+  static mapa_principal + #73, #771
+  static mapa_principal + #74, #771
   static mapa_principal + #75, #771
   static mapa_principal + #76, #771
   static mapa_principal + #77, #771
@@ -2641,10 +2641,10 @@ mapa_principal : var #1200
   static mapa_principal + #108, #3967
   static mapa_principal + #109, #3967
   static mapa_principal + #110, #127
-  static mapa_principal + #111, #3967
-  static mapa_principal + #112, #3967
-  static mapa_principal + #113, #2055
-  static mapa_principal + #114, #2307
+  static mapa_principal + #111, #2055
+  static mapa_principal + #112, #2307
+  static mapa_principal + #113, #771
+  static mapa_principal + #114, #771
   static mapa_principal + #115, #771
   static mapa_principal + #116, #771
   static mapa_principal + #117, #771
@@ -2657,10 +2657,10 @@ mapa_principal : var #1200
   static mapa_principal + #122, #771
   static mapa_principal + #123, #771
   static mapa_principal + #124, #771
-  static mapa_principal + #125, #2307
-  static mapa_principal + #126, #2069
-  static mapa_principal + #127, #2175
-  static mapa_principal + #128, #3967
+  static mapa_principal + #125, #771
+  static mapa_principal + #126, #771
+  static mapa_principal + #127, #2307
+  static mapa_principal + #128, #2069
   static mapa_principal + #129, #3967
   static mapa_principal + #130, #3967
   static mapa_principal + #131, #127
@@ -2683,16 +2683,15 @@ mapa_principal : var #1200
   static mapa_principal + #148, #127
   static mapa_principal + #149, #3967
   static mapa_principal + #150, #3967
-  static mapa_principal + #151, #3967
-  static mapa_principal + #152, #3967
-  static mapa_principal + #153, #2055
-  static mapa_principal + #154, #2307
+  static mapa_principal + #151, #2055
+  static mapa_principal + #152, #2307
+  static mapa_principal + #153, #771
+  static mapa_principal + #154, #771
   static mapa_principal + #155, #771
   static mapa_principal + #156, #771
   static mapa_principal + #157, #771
   static mapa_principal + #158, #771
   static mapa_principal + #159, #771
-
 
   ;Linha 4
   static mapa_principal + #160, #771
@@ -2700,10 +2699,10 @@ mapa_principal : var #1200
   static mapa_principal + #162, #771
   static mapa_principal + #163, #771
   static mapa_principal + #164, #771
-  static mapa_principal + #165, #1795
-  static mapa_principal + #166, #2069
-  static mapa_principal + #167, #127
-  static mapa_principal + #168, #3967
+  static mapa_principal + #165, #771
+  static mapa_principal + #166, #771
+  static mapa_principal + #167, #1795
+  static mapa_principal + #168, #2069
   static mapa_principal + #169, #3967
   static mapa_principal + #170, #3967
   static mapa_principal + #171, #127
@@ -2726,10 +2725,10 @@ mapa_principal : var #1200
   static mapa_principal + #188, #3967
   static mapa_principal + #189, #3967
   static mapa_principal + #190, #3967
-  static mapa_principal + #191, #3967
-  static mapa_principal + #192, #3967
-  static mapa_principal + #193, #2055
-  static mapa_principal + #194, #1795
+  static mapa_principal + #191, #2055
+  static mapa_principal + #192, #1795
+  static mapa_principal + #193, #771
+  static mapa_principal + #194, #771
   static mapa_principal + #195, #771
   static mapa_principal + #196, #771
   static mapa_principal + #197, #771
@@ -2742,10 +2741,10 @@ mapa_principal : var #1200
   static mapa_principal + #202, #771
   static mapa_principal + #203, #771
   static mapa_principal + #204, #771
-  static mapa_principal + #205, #1795
-  static mapa_principal + #206, #2069
-  static mapa_principal + #207, #3967
-  static mapa_principal + #208, #3967
+  static mapa_principal + #205, #771
+  static mapa_principal + #206, #771
+  static mapa_principal + #207, #1795
+  static mapa_principal + #208, #2069
   static mapa_principal + #209, #3967
   static mapa_principal + #210, #3967
   static mapa_principal + #211, #127
@@ -2768,10 +2767,10 @@ mapa_principal : var #1200
   static mapa_principal + #228, #127
   static mapa_principal + #229, #3967
   static mapa_principal + #230, #3967
-  static mapa_principal + #231, #3967
-  static mapa_principal + #232, #3967
-  static mapa_principal + #233, #2055
-  static mapa_principal + #234, #1795
+  static mapa_principal + #231, #2055
+  static mapa_principal + #232, #1795
+  static mapa_principal + #233, #771
+  static mapa_principal + #234, #771
   static mapa_principal + #235, #771
   static mapa_principal + #236, #771
   static mapa_principal + #237, #771
@@ -2784,10 +2783,10 @@ mapa_principal : var #1200
   static mapa_principal + #242, #771
   static mapa_principal + #243, #771
   static mapa_principal + #244, #771
-  static mapa_principal + #245, #2307
-  static mapa_principal + #246, #2069
-  static mapa_principal + #247, #3967
-  static mapa_principal + #248, #3967
+  static mapa_principal + #245, #771
+  static mapa_principal + #246, #771
+  static mapa_principal + #247, #2307
+  static mapa_principal + #248, #2069
   static mapa_principal + #249, #3967
   static mapa_principal + #250, #3967
   static mapa_principal + #251, #127
@@ -2810,10 +2809,10 @@ mapa_principal : var #1200
   static mapa_principal + #268, #3967
   static mapa_principal + #269, #3967
   static mapa_principal + #270, #3967
-  static mapa_principal + #271, #3967
-  static mapa_principal + #272, #3967
-  static mapa_principal + #273, #2055
-  static mapa_principal + #274, #2307
+  static mapa_principal + #271, #2055
+  static mapa_principal + #272, #2307
+  static mapa_principal + #273, #771
+  static mapa_principal + #274, #771
   static mapa_principal + #275, #771
   static mapa_principal + #276, #771
   static mapa_principal + #277, #771
@@ -2826,10 +2825,10 @@ mapa_principal : var #1200
   static mapa_principal + #282, #771
   static mapa_principal + #283, #771
   static mapa_principal + #284, #771
-  static mapa_principal + #285, #2307
-  static mapa_principal + #286, #2069
-  static mapa_principal + #287, #3967
-  static mapa_principal + #288, #3967
+  static mapa_principal + #285, #771
+  static mapa_principal + #286, #771
+  static mapa_principal + #287, #2307
+  static mapa_principal + #288, #2069
   static mapa_principal + #289, #3967
   static mapa_principal + #290, #3967
   static mapa_principal + #291, #127
@@ -2852,10 +2851,10 @@ mapa_principal : var #1200
   static mapa_principal + #308, #127
   static mapa_principal + #309, #3967
   static mapa_principal + #310, #127
-  static mapa_principal + #311, #3967
-  static mapa_principal + #312, #3967
-  static mapa_principal + #313, #2055
-  static mapa_principal + #314, #2307
+  static mapa_principal + #311, #2055
+  static mapa_principal + #312, #2307
+  static mapa_principal + #313, #771
+  static mapa_principal + #314, #771
   static mapa_principal + #315, #771
   static mapa_principal + #316, #771
   static mapa_principal + #317, #771
@@ -2868,10 +2867,10 @@ mapa_principal : var #1200
   static mapa_principal + #322, #771
   static mapa_principal + #323, #771
   static mapa_principal + #324, #771
-  static mapa_principal + #325, #1795
-  static mapa_principal + #326, #2069
-  static mapa_principal + #327, #3967
-  static mapa_principal + #328, #127
+  static mapa_principal + #325, #771
+  static mapa_principal + #326, #771
+  static mapa_principal + #327, #1795
+  static mapa_principal + #328, #2069
   static mapa_principal + #329, #3967
   static mapa_principal + #330, #3967
   static mapa_principal + #331, #127
@@ -2894,10 +2893,10 @@ mapa_principal : var #1200
   static mapa_principal + #348, #3967
   static mapa_principal + #349, #3967
   static mapa_principal + #350, #3967
-  static mapa_principal + #351, #3967
-  static mapa_principal + #352, #3967
-  static mapa_principal + #353, #2055
-  static mapa_principal + #354, #1795
+  static mapa_principal + #351, #2055
+  static mapa_principal + #352, #1795
+  static mapa_principal + #353, #771
+  static mapa_principal + #354, #771
   static mapa_principal + #355, #771
   static mapa_principal + #356, #771
   static mapa_principal + #357, #771
@@ -2910,10 +2909,10 @@ mapa_principal : var #1200
   static mapa_principal + #362, #771
   static mapa_principal + #363, #771
   static mapa_principal + #364, #771
-  static mapa_principal + #365, #1795
-  static mapa_principal + #366, #2069
-  static mapa_principal + #367, #3967
-  static mapa_principal + #368, #3967
+  static mapa_principal + #365, #771
+  static mapa_principal + #366, #771
+  static mapa_principal + #367, #1795
+  static mapa_principal + #368, #2069
   static mapa_principal + #369, #3967
   static mapa_principal + #370, #3967
   static mapa_principal + #371, #127
@@ -2936,10 +2935,10 @@ mapa_principal : var #1200
   static mapa_principal + #388, #127
   static mapa_principal + #389, #3967
   static mapa_principal + #390, #3967
-  static mapa_principal + #391, #3967
-  static mapa_principal + #392, #127
-  static mapa_principal + #393, #2055
-  static mapa_principal + #394, #1795
+  static mapa_principal + #391, #2055
+  static mapa_principal + #392, #1795
+  static mapa_principal + #393, #771
+  static mapa_principal + #394, #771
   static mapa_principal + #395, #771
   static mapa_principal + #396, #771
   static mapa_principal + #397, #771
@@ -2952,10 +2951,10 @@ mapa_principal : var #1200
   static mapa_principal + #402, #771
   static mapa_principal + #403, #771
   static mapa_principal + #404, #771
-  static mapa_principal + #405, #2307
-  static mapa_principal + #406, #2069
-  static mapa_principal + #407, #3967
-  static mapa_principal + #408, #3967
+  static mapa_principal + #405, #771
+  static mapa_principal + #406, #771
+  static mapa_principal + #407, #2307
+  static mapa_principal + #408, #2069
   static mapa_principal + #409, #3967
   static mapa_principal + #410, #3967
   static mapa_principal + #411, #127
@@ -2978,10 +2977,10 @@ mapa_principal : var #1200
   static mapa_principal + #428, #3967
   static mapa_principal + #429, #3967
   static mapa_principal + #430, #3967
-  static mapa_principal + #431, #3967
-  static mapa_principal + #432, #3967
-  static mapa_principal + #433, #2055
-  static mapa_principal + #434, #2307
+  static mapa_principal + #431, #2055
+  static mapa_principal + #432, #2307
+  static mapa_principal + #433, #771
+  static mapa_principal + #434, #771
   static mapa_principal + #435, #771
   static mapa_principal + #436, #771
   static mapa_principal + #437, #771
@@ -2994,10 +2993,10 @@ mapa_principal : var #1200
   static mapa_principal + #442, #771
   static mapa_principal + #443, #771
   static mapa_principal + #444, #771
-  static mapa_principal + #445, #2307
-  static mapa_principal + #446, #2069
-  static mapa_principal + #447, #3967
-  static mapa_principal + #448, #3967
+  static mapa_principal + #445, #771
+  static mapa_principal + #446, #771
+  static mapa_principal + #447, #2307
+  static mapa_principal + #448, #2069
   static mapa_principal + #449, #3967
   static mapa_principal + #450, #3967
   static mapa_principal + #451, #127
@@ -3020,10 +3019,10 @@ mapa_principal : var #1200
   static mapa_principal + #468, #127
   static mapa_principal + #469, #3967
   static mapa_principal + #470, #3967
-  static mapa_principal + #471, #3967
-  static mapa_principal + #472, #3967
-  static mapa_principal + #473, #2055
-  static mapa_principal + #474, #2307
+  static mapa_principal + #471, #2055
+  static mapa_principal + #472, #2307
+  static mapa_principal + #473, #771
+  static mapa_principal + #474, #771
   static mapa_principal + #475, #771
   static mapa_principal + #476, #771
   static mapa_principal + #477, #771
@@ -3036,10 +3035,10 @@ mapa_principal : var #1200
   static mapa_principal + #482, #771
   static mapa_principal + #483, #771
   static mapa_principal + #484, #771
-  static mapa_principal + #485, #1795
-  static mapa_principal + #486, #2069
-  static mapa_principal + #487, #3967
-  static mapa_principal + #488, #3967
+  static mapa_principal + #485, #771
+  static mapa_principal + #486, #771
+  static mapa_principal + #487, #1795
+  static mapa_principal + #488, #2069
   static mapa_principal + #489, #3967
   static mapa_principal + #490, #3967
   static mapa_principal + #491, #127
@@ -3061,11 +3060,11 @@ mapa_principal : var #1200
   static mapa_principal + #507, #3967
   static mapa_principal + #508, #3967
   static mapa_principal + #509, #3967
-  static mapa_principal + #510, #127
-  static mapa_principal + #511, #3967
-  static mapa_principal + #512, #3967
-  static mapa_principal + #513, #2055
-  static mapa_principal + #514, #1795
+  static mapa_principal + #510, #2175
+  static mapa_principal + #511, #2055
+  static mapa_principal + #512, #1795
+  static mapa_principal + #513, #771
+  static mapa_principal + #514, #771
   static mapa_principal + #515, #771
   static mapa_principal + #516, #771
   static mapa_principal + #517, #771
@@ -3078,10 +3077,10 @@ mapa_principal : var #1200
   static mapa_principal + #522, #771
   static mapa_principal + #523, #771
   static mapa_principal + #524, #771
-  static mapa_principal + #525, #1795
-  static mapa_principal + #526, #2069
-  static mapa_principal + #527, #3967
-  static mapa_principal + #528, #3967
+  static mapa_principal + #525, #771
+  static mapa_principal + #526, #771
+  static mapa_principal + #527, #1795
+  static mapa_principal + #528, #2069
   static mapa_principal + #529, #3967
   static mapa_principal + #530, #3967
   static mapa_principal + #531, #127
@@ -3103,11 +3102,11 @@ mapa_principal : var #1200
   static mapa_principal + #547, #3967
   static mapa_principal + #548, #127
   static mapa_principal + #549, #3967
-  static mapa_principal + #550, #3967
-  static mapa_principal + #551, #3967
-  static mapa_principal + #552, #3967
-  static mapa_principal + #553, #2055
-  static mapa_principal + #554, #1795
+  static mapa_principal + #550, #2175
+  static mapa_principal + #551, #2055
+  static mapa_principal + #552, #1795
+  static mapa_principal + #553, #771
+  static mapa_principal + #554, #771
   static mapa_principal + #555, #771
   static mapa_principal + #556, #771
   static mapa_principal + #557, #771
@@ -3120,10 +3119,10 @@ mapa_principal : var #1200
   static mapa_principal + #562, #771
   static mapa_principal + #563, #771
   static mapa_principal + #564, #771
-  static mapa_principal + #565, #2307
-  static mapa_principal + #566, #2069
-  static mapa_principal + #567, #3967
-  static mapa_principal + #568, #127
+  static mapa_principal + #565, #771
+  static mapa_principal + #566, #771
+  static mapa_principal + #567, #2307
+  static mapa_principal + #568, #2069
   static mapa_principal + #569, #3967
   static mapa_principal + #570, #3967
   static mapa_principal + #571, #127
@@ -3145,11 +3144,11 @@ mapa_principal : var #1200
   static mapa_principal + #587, #3967
   static mapa_principal + #588, #3967
   static mapa_principal + #589, #3967
-  static mapa_principal + #590, #3967
-  static mapa_principal + #591, #3967
-  static mapa_principal + #592, #3967
-  static mapa_principal + #593, #2055
-  static mapa_principal + #594, #2307
+  static mapa_principal + #590, #2175
+  static mapa_principal + #591, #2055
+  static mapa_principal + #592, #2307
+  static mapa_principal + #593, #771
+  static mapa_principal + #594, #771
   static mapa_principal + #595, #771
   static mapa_principal + #596, #771
   static mapa_principal + #597, #771
@@ -3162,10 +3161,10 @@ mapa_principal : var #1200
   static mapa_principal + #602, #771
   static mapa_principal + #603, #771
   static mapa_principal + #604, #771
-  static mapa_principal + #605, #2307
-  static mapa_principal + #606, #2069
-  static mapa_principal + #607, #3967
-  static mapa_principal + #608, #3967
+  static mapa_principal + #605, #771
+  static mapa_principal + #606, #771
+  static mapa_principal + #607, #2307
+  static mapa_principal + #608, #2069
   static mapa_principal + #609, #3967
   static mapa_principal + #610, #127
   static mapa_principal + #611, #127
@@ -3187,11 +3186,11 @@ mapa_principal : var #1200
   static mapa_principal + #627, #3967
   static mapa_principal + #628, #127
   static mapa_principal + #629, #3967
-  static mapa_principal + #630, #3967
-  static mapa_principal + #631, #3967
-  static mapa_principal + #632, #3967
-  static mapa_principal + #633, #2055
-  static mapa_principal + #634, #2307
+  static mapa_principal + #630, #2175
+  static mapa_principal + #631, #2055
+  static mapa_principal + #632, #2307
+  static mapa_principal + #633, #771
+  static mapa_principal + #634, #771
   static mapa_principal + #635, #771
   static mapa_principal + #636, #771
   static mapa_principal + #637, #771
@@ -3204,10 +3203,10 @@ mapa_principal : var #1200
   static mapa_principal + #642, #771
   static mapa_principal + #643, #771
   static mapa_principal + #644, #771
-  static mapa_principal + #645, #1795
-  static mapa_principal + #646, #2069
-  static mapa_principal + #647, #3967
-  static mapa_principal + #648, #3967
+  static mapa_principal + #645, #771
+  static mapa_principal + #646, #771
+  static mapa_principal + #647, #1795
+  static mapa_principal + #648, #2069
   static mapa_principal + #649, #3967
   static mapa_principal + #650, #127
   static mapa_principal + #651, #127
@@ -3229,11 +3228,11 @@ mapa_principal : var #1200
   static mapa_principal + #667, #3967
   static mapa_principal + #668, #127
   static mapa_principal + #669, #3967
-  static mapa_principal + #670, #3967
-  static mapa_principal + #671, #127
-  static mapa_principal + #672, #3967
-  static mapa_principal + #673, #2055
-  static mapa_principal + #674, #1795
+  static mapa_principal + #670, #2175
+  static mapa_principal + #671, #2055
+  static mapa_principal + #672, #1795
+  static mapa_principal + #673, #771
+  static mapa_principal + #674, #771
   static mapa_principal + #675, #771
   static mapa_principal + #676, #771
   static mapa_principal + #677, #771
@@ -3246,10 +3245,10 @@ mapa_principal : var #1200
   static mapa_principal + #682, #771
   static mapa_principal + #683, #771
   static mapa_principal + #684, #771
-  static mapa_principal + #685, #1795
-  static mapa_principal + #686, #2069
-  static mapa_principal + #687, #3967
-  static mapa_principal + #688, #3967
+  static mapa_principal + #685, #771
+  static mapa_principal + #686, #771
+  static mapa_principal + #687, #1795
+  static mapa_principal + #688, #2069
   static mapa_principal + #689, #3967
   static mapa_principal + #690, #127
   static mapa_principal + #691, #127
@@ -3271,11 +3270,11 @@ mapa_principal : var #1200
   static mapa_principal + #707, #3967
   static mapa_principal + #708, #127
   static mapa_principal + #709, #3967
-  static mapa_principal + #710, #3967
-  static mapa_principal + #711, #3967
-  static mapa_principal + #712, #3967
-  static mapa_principal + #713, #2055
-  static mapa_principal + #714, #1795
+  static mapa_principal + #710, #2175
+  static mapa_principal + #711, #2055
+  static mapa_principal + #712, #1795
+  static mapa_principal + #713, #771
+  static mapa_principal + #714, #771
   static mapa_principal + #715, #771
   static mapa_principal + #716, #771
   static mapa_principal + #717, #771
@@ -3288,10 +3287,10 @@ mapa_principal : var #1200
   static mapa_principal + #722, #771
   static mapa_principal + #723, #771
   static mapa_principal + #724, #771
-  static mapa_principal + #725, #2307
-  static mapa_principal + #726, #2069
-  static mapa_principal + #727, #3967
-  static mapa_principal + #728, #3967
+  static mapa_principal + #725, #771
+  static mapa_principal + #726, #771
+  static mapa_principal + #727, #2307
+  static mapa_principal + #728, #2069
   static mapa_principal + #729, #3967
   static mapa_principal + #730, #127
   static mapa_principal + #731, #127
@@ -3313,11 +3312,11 @@ mapa_principal : var #1200
   static mapa_principal + #747, #3967
   static mapa_principal + #748, #3967
   static mapa_principal + #749, #3967
-  static mapa_principal + #750, #3967
-  static mapa_principal + #751, #3967
-  static mapa_principal + #752, #3967
-  static mapa_principal + #753, #2055
-  static mapa_principal + #754, #2307
+  static mapa_principal + #750, #2175
+  static mapa_principal + #751, #2055
+  static mapa_principal + #752, #2307
+  static mapa_principal + #753, #771
+  static mapa_principal + #754, #771
   static mapa_principal + #755, #771
   static mapa_principal + #756, #771
   static mapa_principal + #757, #771
@@ -3330,10 +3329,10 @@ mapa_principal : var #1200
   static mapa_principal + #762, #771
   static mapa_principal + #763, #771
   static mapa_principal + #764, #771
-  static mapa_principal + #765, #2307
-  static mapa_principal + #766, #2069
-  static mapa_principal + #767, #127
-  static mapa_principal + #768, #127
+  static mapa_principal + #765, #771
+  static mapa_principal + #766, #771
+  static mapa_principal + #767, #2307
+  static mapa_principal + #768, #2069
   static mapa_principal + #769, #127
   static mapa_principal + #770, #127
   static mapa_principal + #771, #127
@@ -3355,11 +3354,11 @@ mapa_principal : var #1200
   static mapa_principal + #787, #127
   static mapa_principal + #788, #127
   static mapa_principal + #789, #127
-  static mapa_principal + #790, #3967
-  static mapa_principal + #791, #127
-  static mapa_principal + #792, #127
-  static mapa_principal + #793, #2055
-  static mapa_principal + #794, #2307
+  static mapa_principal + #790, #2175
+  static mapa_principal + #791, #2055
+  static mapa_principal + #792, #2307
+  static mapa_principal + #793, #771
+  static mapa_principal + #794, #771
   static mapa_principal + #795, #771
   static mapa_principal + #796, #771
   static mapa_principal + #797, #771
@@ -3372,10 +3371,10 @@ mapa_principal : var #1200
   static mapa_principal + #802, #771
   static mapa_principal + #803, #771
   static mapa_principal + #804, #771
-  static mapa_principal + #805, #1795
-  static mapa_principal + #806, #2069
-  static mapa_principal + #807, #3967
-  static mapa_principal + #808, #3967
+  static mapa_principal + #805, #771
+  static mapa_principal + #806, #771
+  static mapa_principal + #807, #1795
+  static mapa_principal + #808, #2069
   static mapa_principal + #809, #3967
   static mapa_principal + #810, #3967
   static mapa_principal + #811, #127
@@ -3397,11 +3396,11 @@ mapa_principal : var #1200
   static mapa_principal + #827, #3967
   static mapa_principal + #828, #3967
   static mapa_principal + #829, #3967
-  static mapa_principal + #830, #3967
-  static mapa_principal + #831, #3967
-  static mapa_principal + #832, #3967
-  static mapa_principal + #833, #2055
-  static mapa_principal + #834, #1795
+  static mapa_principal + #830, #2175
+  static mapa_principal + #831, #2055
+  static mapa_principal + #832, #1795
+  static mapa_principal + #833, #771
+  static mapa_principal + #834, #771
   static mapa_principal + #835, #771
   static mapa_principal + #836, #771
   static mapa_principal + #837, #771
@@ -3414,10 +3413,10 @@ mapa_principal : var #1200
   static mapa_principal + #842, #771
   static mapa_principal + #843, #771
   static mapa_principal + #844, #771
-  static mapa_principal + #845, #1795
-  static mapa_principal + #846, #2069
-  static mapa_principal + #847, #3967
-  static mapa_principal + #848, #3967
+  static mapa_principal + #845, #771
+  static mapa_principal + #846, #771
+  static mapa_principal + #847, #1795
+  static mapa_principal + #848, #2069
   static mapa_principal + #849, #127
   static mapa_principal + #850, #3967
   static mapa_principal + #851, #127
@@ -3439,11 +3438,11 @@ mapa_principal : var #1200
   static mapa_principal + #867, #3967
   static mapa_principal + #868, #127
   static mapa_principal + #869, #3967
-  static mapa_principal + #870, #3967
-  static mapa_principal + #871, #3967
-  static mapa_principal + #872, #3967
-  static mapa_principal + #873, #2055
-  static mapa_principal + #874, #1795
+  static mapa_principal + #870, #2175
+  static mapa_principal + #871, #2055
+  static mapa_principal + #872, #1795
+  static mapa_principal + #873, #771
+  static mapa_principal + #874, #771
   static mapa_principal + #875, #771
   static mapa_principal + #876, #771
   static mapa_principal + #877, #771
@@ -3456,10 +3455,10 @@ mapa_principal : var #1200
   static mapa_principal + #882, #771
   static mapa_principal + #883, #771
   static mapa_principal + #884, #771
-  static mapa_principal + #885, #2307
-  static mapa_principal + #886, #2069
-  static mapa_principal + #887, #3967
-  static mapa_principal + #888, #3967
+  static mapa_principal + #885, #771
+  static mapa_principal + #886, #771
+  static mapa_principal + #887, #2307
+  static mapa_principal + #888, #2069
   static mapa_principal + #889, #3967
   static mapa_principal + #890, #3967
   static mapa_principal + #891, #127
@@ -3481,11 +3480,11 @@ mapa_principal : var #1200
   static mapa_principal + #907, #3967
   static mapa_principal + #908, #3967
   static mapa_principal + #909, #3967
-  static mapa_principal + #910, #127
-  static mapa_principal + #911, #3967
-  static mapa_principal + #912, #3967
-  static mapa_principal + #913, #2055
-  static mapa_principal + #914, #2307
+  static mapa_principal + #910, #2175
+  static mapa_principal + #911, #2055
+  static mapa_principal + #912, #2307
+  static mapa_principal + #913, #771
+  static mapa_principal + #914, #771
   static mapa_principal + #915, #771
   static mapa_principal + #916, #771
   static mapa_principal + #917, #771
@@ -3498,10 +3497,10 @@ mapa_principal : var #1200
   static mapa_principal + #922, #771
   static mapa_principal + #923, #771
   static mapa_principal + #924, #771
-  static mapa_principal + #925, #2307
-  static mapa_principal + #926, #2069
-  static mapa_principal + #927, #3967
-  static mapa_principal + #928, #3967
+  static mapa_principal + #925, #771
+  static mapa_principal + #926, #771
+  static mapa_principal + #927, #2307
+  static mapa_principal + #928, #2069
   static mapa_principal + #929, #3967
   static mapa_principal + #930, #3967
   static mapa_principal + #931, #127
@@ -3524,10 +3523,10 @@ mapa_principal : var #1200
   static mapa_principal + #948, #127
   static mapa_principal + #949, #3967
   static mapa_principal + #950, #3967
-  static mapa_principal + #951, #3967
-  static mapa_principal + #952, #3967
-  static mapa_principal + #953, #2055
-  static mapa_principal + #954, #2307
+  static mapa_principal + #951, #2055
+  static mapa_principal + #952, #2307
+  static mapa_principal + #953, #771
+  static mapa_principal + #954, #771
   static mapa_principal + #955, #771
   static mapa_principal + #956, #771
   static mapa_principal + #957, #771
@@ -3540,10 +3539,10 @@ mapa_principal : var #1200
   static mapa_principal + #962, #771
   static mapa_principal + #963, #771
   static mapa_principal + #964, #771
-  static mapa_principal + #965, #1795
-  static mapa_principal + #966, #2069
-  static mapa_principal + #967, #3967
-  static mapa_principal + #968, #3967
+  static mapa_principal + #965, #771
+  static mapa_principal + #966, #771
+  static mapa_principal + #967, #1795
+  static mapa_principal + #968, #2069
   static mapa_principal + #969, #3967
   static mapa_principal + #970, #3967
   static mapa_principal + #971, #127
@@ -3566,10 +3565,10 @@ mapa_principal : var #1200
   static mapa_principal + #988, #3967
   static mapa_principal + #989, #3967
   static mapa_principal + #990, #3967
-  static mapa_principal + #991, #3967
-  static mapa_principal + #992, #3967
-  static mapa_principal + #993, #2055
-  static mapa_principal + #994, #1795
+  static mapa_principal + #991, #2055
+  static mapa_principal + #992, #1795
+  static mapa_principal + #993, #771
+  static mapa_principal + #994, #771
   static mapa_principal + #995, #771
   static mapa_principal + #996, #771
   static mapa_principal + #997, #771
@@ -3582,10 +3581,10 @@ mapa_principal : var #1200
   static mapa_principal + #1002, #771
   static mapa_principal + #1003, #771
   static mapa_principal + #1004, #771
-  static mapa_principal + #1005, #1795
-  static mapa_principal + #1006, #2069
-  static mapa_principal + #1007, #3967
-  static mapa_principal + #1008, #3967
+  static mapa_principal + #1005, #771
+  static mapa_principal + #1006, #771
+  static mapa_principal + #1007, #1795
+  static mapa_principal + #1008, #2069
   static mapa_principal + #1009, #3967
   static mapa_principal + #1010, #3967
   static mapa_principal + #1011, #127
@@ -3608,10 +3607,10 @@ mapa_principal : var #1200
   static mapa_principal + #1028, #127
   static mapa_principal + #1029, #3967
   static mapa_principal + #1030, #3967
-  static mapa_principal + #1031, #3967
-  static mapa_principal + #1032, #3967
-  static mapa_principal + #1033, #2055
-  static mapa_principal + #1034, #1795
+  static mapa_principal + #1031, #2055
+  static mapa_principal + #1032, #1795
+  static mapa_principal + #1033, #771
+  static mapa_principal + #1034, #771
   static mapa_principal + #1035, #771
   static mapa_principal + #1036, #771
   static mapa_principal + #1037, #771
@@ -3624,10 +3623,10 @@ mapa_principal : var #1200
   static mapa_principal + #1042, #771
   static mapa_principal + #1043, #771
   static mapa_principal + #1044, #771
-  static mapa_principal + #1045, #2307
-  static mapa_principal + #1046, #2069
-  static mapa_principal + #1047, #127
-  static mapa_principal + #1048, #3967
+  static mapa_principal + #1045, #771
+  static mapa_principal + #1046, #771
+  static mapa_principal + #1047, #2307
+  static mapa_principal + #1048, #2069
   static mapa_principal + #1049, #3967
   static mapa_principal + #1050, #3967
   static mapa_principal + #1051, #127
@@ -3650,10 +3649,10 @@ mapa_principal : var #1200
   static mapa_principal + #1068, #3967
   static mapa_principal + #1069, #3967
   static mapa_principal + #1070, #3967
-  static mapa_principal + #1071, #3967
-  static mapa_principal + #1072, #3967
-  static mapa_principal + #1073, #2055
-  static mapa_principal + #1074, #2307
+  static mapa_principal + #1071, #2055
+  static mapa_principal + #1072, #2307
+  static mapa_principal + #1073, #771
+  static mapa_principal + #1074, #771
   static mapa_principal + #1075, #771
   static mapa_principal + #1076, #771
   static mapa_principal + #1077, #771
@@ -3666,10 +3665,10 @@ mapa_principal : var #1200
   static mapa_principal + #1082, #771
   static mapa_principal + #1083, #771
   static mapa_principal + #1084, #771
-  static mapa_principal + #1085, #2307
-  static mapa_principal + #1086, #2069
-  static mapa_principal + #1087, #3967
-  static mapa_principal + #1088, #3967
+  static mapa_principal + #1085, #771
+  static mapa_principal + #1086, #771
+  static mapa_principal + #1087, #2307
+  static mapa_principal + #1088, #2069
   static mapa_principal + #1089, #3967
   static mapa_principal + #1090, #3967
   static mapa_principal + #1091, #127
@@ -3692,10 +3691,10 @@ mapa_principal : var #1200
   static mapa_principal + #1108, #127
   static mapa_principal + #1109, #3967
   static mapa_principal + #1110, #3967
-  static mapa_principal + #1111, #3967
-  static mapa_principal + #1112, #127
-  static mapa_principal + #1113, #2055
-  static mapa_principal + #1114, #2307
+  static mapa_principal + #1111, #2055
+  static mapa_principal + #1112, #2307
+  static mapa_principal + #1113, #771
+  static mapa_principal + #1114, #771
   static mapa_principal + #1115, #771
   static mapa_principal + #1116, #771
   static mapa_principal + #1117, #771
@@ -3708,10 +3707,10 @@ mapa_principal : var #1200
   static mapa_principal + #1122, #771
   static mapa_principal + #1123, #771
   static mapa_principal + #1124, #771
-  static mapa_principal + #1125, #1795
-  static mapa_principal + #1126, #2069
-  static mapa_principal + #1127, #3967
-  static mapa_principal + #1128, #3967
+  static mapa_principal + #1125, #771
+  static mapa_principal + #1126, #771
+  static mapa_principal + #1127, #1795
+  static mapa_principal + #1128, #2069
   static mapa_principal + #1129, #3967
   static mapa_principal + #1130, #3967
   static mapa_principal + #1131, #127
@@ -3734,10 +3733,10 @@ mapa_principal : var #1200
   static mapa_principal + #1148, #127
   static mapa_principal + #1149, #3967
   static mapa_principal + #1150, #3967
-  static mapa_principal + #1151, #3967
-  static mapa_principal + #1152, #3967
-  static mapa_principal + #1153, #2055
-  static mapa_principal + #1154, #1795
+  static mapa_principal + #1151, #2055
+  static mapa_principal + #1152, #1795
+  static mapa_principal + #1153, #771
+  static mapa_principal + #1154, #771
   static mapa_principal + #1155, #771
   static mapa_principal + #1156, #771
   static mapa_principal + #1157, #771
@@ -3750,10 +3749,10 @@ mapa_principal : var #1200
   static mapa_principal + #1162, #771
   static mapa_principal + #1163, #771
   static mapa_principal + #1164, #771
-  static mapa_principal + #1165, #1795
-  static mapa_principal + #1166, #2069
-  static mapa_principal + #1167, #3967
-  static mapa_principal + #1168, #3967
+  static mapa_principal + #1165, #771
+  static mapa_principal + #1166, #771
+  static mapa_principal + #1167, #1795
+  static mapa_principal + #1168, #2069
   static mapa_principal + #1169, #3967
   static mapa_principal + #1170, #3967
   static mapa_principal + #1171, #127
@@ -3776,10 +3775,10 @@ mapa_principal : var #1200
   static mapa_principal + #1188, #127
   static mapa_principal + #1189, #3967
   static mapa_principal + #1190, #3967
-  static mapa_principal + #1191, #3967
-  static mapa_principal + #1192, #3967
-  static mapa_principal + #1193, #2055
-  static mapa_principal + #1194, #1795
+  static mapa_principal + #1191, #2055
+  static mapa_principal + #1192, #1795
+  static mapa_principal + #1193, #771
+  static mapa_principal + #1194, #771
   static mapa_principal + #1195, #771
   static mapa_principal + #1196, #771
   static mapa_principal + #1197, #771
@@ -3810,11 +3809,1446 @@ perso_principalGaps : var #10
   static perso_principalGaps + #8, #0
   static perso_principalGaps + #9, #0
 
+inimigo_1 : var #10
+  static inimigo_1 + #0, #2088 ;    (
+  static inimigo_1 + #1, #369 ;    q
+  static inimigo_1 + #2, #2089 ;    )
+  static inimigo_1 + #3, #329 ;    I
+  static inimigo_1 + #4, #263 ;    
+  static inimigo_1 + #5, #284 ;    
+  static inimigo_1 + #6, #277 ;    
+  static inimigo_1 + #7, #2088 ;    (
+  static inimigo_1 + #8, #370 ;    r
+  static inimigo_1 + #9, #2089 ;    )
+
+inimigo_1Gaps : var #10
+  static inimigo_1Gaps + #0, #0
+  static inimigo_1Gaps + #1, #0
+  static inimigo_1Gaps + #2, #0
+  static inimigo_1Gaps + #3, #38
+  static inimigo_1Gaps + #4, #38
+  static inimigo_1Gaps + #5, #0
+  static inimigo_1Gaps + #6, #0
+  static inimigo_1Gaps + #7, #37
+  static inimigo_1Gaps + #8, #0
+  static inimigo_1Gaps + #9, #0
+
+inimigo_2 : var #10
+  static inimigo_2 + #0, #2088 ;    (
+  static inimigo_2 + #1, #3185 ;    q
+  static inimigo_2 + #2, #2089 ;    )
+  ;39  espacos para o proximo caractere
+  static inimigo_2 + #3, #3145 ;    I
+  ;39  espacos para o proximo caractere
+  static inimigo_2 + #4, #1031 ;    
+  static inimigo_2 + #5, #3100 ;    
+  static inimigo_2 + #6, #1045 ;    
+  ;38  espacos para o proximo caractere
+  static inimigo_2 + #7, #2088 ;    (
+  static inimigo_2 + #8, #3186 ;    r
+  static inimigo_2 + #9, #2089 ;    )
+
+inimigo_2Gaps : var #10
+  static inimigo_2Gaps + #0, #0
+  static inimigo_2Gaps + #1, #0
+  static inimigo_2Gaps + #2, #0
+  static inimigo_2Gaps + #3, #38
+  static inimigo_2Gaps + #4, #38
+  static inimigo_2Gaps + #5, #0
+  static inimigo_2Gaps + #6, #0
+  static inimigo_2Gaps + #7, #37
+  static inimigo_2Gaps + #8, #0
+  static inimigo_2Gaps + #9, #0
+
+inimigo_3 : var #10
+  static inimigo_3 + #0, #2088 ;    (
+  static inimigo_3 + #1, #2929 ;    q
+  static inimigo_3 + #2, #2089 ;    )
+  static inimigo_3 + #3, #2889 ;    I
+  static inimigo_3 + #4, #1799 ;    
+  static inimigo_3 + #5, #2844 ;    
+  static inimigo_3 + #6, #1813 ;    
+  static inimigo_3 + #7, #2088 ;    (
+  static inimigo_3 + #8, #2930 ;    r
+  static inimigo_3 + #9, #2089 ;    )
+
+inimigo_3Gaps : var #10
+  static inimigo_3Gaps + #0, #0
+  static inimigo_3Gaps + #1, #0
+  static inimigo_3Gaps + #2, #0
+  static inimigo_3Gaps + #3, #38
+  static inimigo_3Gaps + #4, #38
+  static inimigo_3Gaps + #5, #0
+  static inimigo_3Gaps + #6, #0
+  static inimigo_3Gaps + #7, #37
+  static inimigo_3Gaps + #8, #0
+  static inimigo_3Gaps + #9, #0
+
+inimigo_4 : var #10
+  static inimigo_4 + #0, #2088 ;    (
+  static inimigo_4 + #1, #1393 ;    q
+  static inimigo_4 + #2, #2089 ;    )
+  static inimigo_4 + #3, #1353 ;    I
+  static inimigo_4 + #4, #1799 ;    
+  static inimigo_4 + #5, #1308 ;    
+  static inimigo_4 + #6, #1813 ;    
+  static inimigo_4 + #7, #2088 ;    (
+  static inimigo_4 + #8, #1394 ;    r
+  static inimigo_4 + #9, #2089 ;    )
+
+inimigo_4Gaps : var #10
+  static inimigo_4Gaps + #0, #0
+  static inimigo_4Gaps + #1, #0
+  static inimigo_4Gaps + #2, #0
+  static inimigo_4Gaps + #3, #38
+  static inimigo_4Gaps + #4, #38
+  static inimigo_4Gaps + #5, #0
+  static inimigo_4Gaps + #6, #0
+  static inimigo_4Gaps + #7, #37
+  static inimigo_4Gaps + #8, #0
+  static inimigo_4Gaps + #9, #0
+
+IncRand: var #1			; Incremento para circular na Tabela de nr. Randomicos
+Rand : var #30			; Tabela de nr. Randomicos entre 1 - 4
+	static Rand + #0, #1
+	static Rand + #1, #3
+	static Rand + #2, #4
+	static Rand + #3, #2
+	static Rand + #4, #1
+	static Rand + #5, #4
+	static Rand + #6, #3
+	static Rand + #7, #2
+	static Rand + #8, #1
+	static Rand + #9, #4
+	static Rand + #10, #3
+	static Rand + #11, #2
+	static Rand + #12, #1
+	static Rand + #13, #4
+	static Rand + #14, #3
+	static Rand + #15, #2
+	static Rand + #16, #1
+	static Rand + #17, #4
+	static Rand + #18, #3
+	static Rand + #19, #2
+	static Rand + #20, #1
+	static Rand + #21, #4
+	static Rand + #22, #3
+	static Rand + #23, #2
+	static Rand + #24, #1
+	static Rand + #25, #4
+	static Rand + #26, #3
+	static Rand + #27, #2
+	static Rand + #28, #1
+	static Rand + #29, #4
+
+derrota : var #1200
+  ;Linha 0
+  static derrota + #0, #127
+  static derrota + #1, #127
+  static derrota + #2, #127
+  static derrota + #3, #127
+  static derrota + #4, #127
+  static derrota + #5, #127
+  static derrota + #6, #127
+  static derrota + #7, #127
+  static derrota + #8, #127
+  static derrota + #9, #127
+  static derrota + #10, #127
+  static derrota + #11, #127
+  static derrota + #12, #127
+  static derrota + #13, #127
+  static derrota + #14, #127
+  static derrota + #15, #127
+  static derrota + #16, #127
+  static derrota + #17, #127
+  static derrota + #18, #127
+  static derrota + #19, #127
+  static derrota + #20, #127
+  static derrota + #21, #127
+  static derrota + #22, #127
+  static derrota + #23, #127
+  static derrota + #24, #127
+  static derrota + #25, #127
+  static derrota + #26, #127
+  static derrota + #27, #127
+  static derrota + #28, #127
+  static derrota + #29, #127
+  static derrota + #30, #127
+  static derrota + #31, #127
+  static derrota + #32, #127
+  static derrota + #33, #127
+  static derrota + #34, #127
+  static derrota + #35, #127
+  static derrota + #36, #127
+  static derrota + #37, #127
+  static derrota + #38, #127
+  static derrota + #39, #127
+
+  ;Linha 1
+  static derrota + #40, #127
+  static derrota + #41, #127
+  static derrota + #42, #127
+  static derrota + #43, #127
+  static derrota + #44, #127
+  static derrota + #45, #127
+  static derrota + #46, #127
+  static derrota + #47, #127
+  static derrota + #48, #127
+  static derrota + #49, #127
+  static derrota + #50, #127
+  static derrota + #51, #127
+  static derrota + #52, #127
+  static derrota + #53, #127
+  static derrota + #54, #127
+  static derrota + #55, #127
+  static derrota + #56, #127
+  static derrota + #57, #127
+  static derrota + #58, #127
+  static derrota + #59, #127
+  static derrota + #60, #127
+  static derrota + #61, #127
+  static derrota + #62, #127
+  static derrota + #63, #127
+  static derrota + #64, #127
+  static derrota + #65, #127
+  static derrota + #66, #127
+  static derrota + #67, #127
+  static derrota + #68, #127
+  static derrota + #69, #127
+  static derrota + #70, #127
+  static derrota + #71, #127
+  static derrota + #72, #127
+  static derrota + #73, #127
+  static derrota + #74, #2431
+  static derrota + #75, #127
+  static derrota + #76, #127
+  static derrota + #77, #127
+  static derrota + #78, #127
+  static derrota + #79, #127
+
+  ;Linha 2
+  static derrota + #80, #127
+  static derrota + #81, #127
+  static derrota + #82, #127
+  static derrota + #83, #127
+  static derrota + #84, #127
+  static derrota + #85, #127
+  static derrota + #86, #127
+  static derrota + #87, #127
+  static derrota + #88, #127
+  static derrota + #89, #127
+  static derrota + #90, #127
+  static derrota + #91, #127
+  static derrota + #92, #127
+  static derrota + #93, #127
+  static derrota + #94, #127
+  static derrota + #95, #127
+  static derrota + #96, #127
+  static derrota + #97, #127
+  static derrota + #98, #127
+  static derrota + #99, #127
+  static derrota + #100, #127
+  static derrota + #101, #127
+  static derrota + #102, #127
+  static derrota + #103, #127
+  static derrota + #104, #127
+  static derrota + #105, #127
+  static derrota + #106, #127
+  static derrota + #107, #127
+  static derrota + #108, #127
+  static derrota + #109, #127
+  static derrota + #110, #127
+  static derrota + #111, #127
+  static derrota + #112, #127
+  static derrota + #113, #2431
+  static derrota + #114, #2431
+  static derrota + #115, #127
+  static derrota + #116, #127
+  static derrota + #117, #127
+  static derrota + #118, #127
+  static derrota + #119, #127
+
+  ;Linha 3
+  static derrota + #120, #127
+  static derrota + #121, #127
+  static derrota + #122, #127
+  static derrota + #123, #127
+  static derrota + #124, #127
+  static derrota + #125, #127
+  static derrota + #126, #127
+  static derrota + #127, #127
+  static derrota + #128, #127
+  static derrota + #129, #127
+  static derrota + #130, #127
+  static derrota + #131, #127
+  static derrota + #132, #127
+  static derrota + #133, #127
+  static derrota + #134, #127
+  static derrota + #135, #127
+  static derrota + #136, #127
+  static derrota + #137, #127
+  static derrota + #138, #127
+  static derrota + #139, #127
+  static derrota + #140, #127
+  static derrota + #141, #127
+  static derrota + #142, #127
+  static derrota + #143, #127
+  static derrota + #144, #127
+  static derrota + #145, #127
+  static derrota + #146, #127
+  static derrota + #147, #127
+  static derrota + #148, #127
+  static derrota + #149, #127
+  static derrota + #150, #127
+  static derrota + #151, #127
+  static derrota + #152, #127
+  static derrota + #153, #2431
+  static derrota + #154, #127
+  static derrota + #155, #127
+  static derrota + #156, #127
+  static derrota + #157, #127
+  static derrota + #158, #127
+  static derrota + #159, #127
+
+  ;Linha 4
+  static derrota + #160, #127
+  static derrota + #161, #127
+  static derrota + #162, #127
+  static derrota + #163, #127
+  static derrota + #164, #127
+  static derrota + #165, #127
+  static derrota + #166, #127
+  static derrota + #167, #127
+  static derrota + #168, #127
+  static derrota + #169, #127
+  static derrota + #170, #127
+  static derrota + #171, #127
+  static derrota + #172, #127
+  static derrota + #173, #127
+  static derrota + #174, #127
+  static derrota + #175, #127
+  static derrota + #176, #127
+  static derrota + #177, #127
+  static derrota + #178, #127
+  static derrota + #179, #127
+  static derrota + #180, #127
+  static derrota + #181, #127
+  static derrota + #182, #127
+  static derrota + #183, #127
+  static derrota + #184, #127
+  static derrota + #185, #127
+  static derrota + #186, #127
+  static derrota + #187, #127
+  static derrota + #188, #127
+  static derrota + #189, #127
+  static derrota + #190, #127
+  static derrota + #191, #127
+  static derrota + #192, #2431
+  static derrota + #193, #127
+  static derrota + #194, #127
+  static derrota + #195, #127
+  static derrota + #196, #127
+  static derrota + #197, #127
+  static derrota + #198, #127
+  static derrota + #199, #127
+
+  ;Linha 5
+  static derrota + #200, #127
+  static derrota + #201, #127
+  static derrota + #202, #127
+  static derrota + #203, #127
+  static derrota + #204, #127
+  static derrota + #205, #127
+  static derrota + #206, #127
+  static derrota + #207, #127
+  static derrota + #208, #127
+  static derrota + #209, #127
+  static derrota + #210, #127
+  static derrota + #211, #127
+  static derrota + #212, #127
+  static derrota + #213, #127
+  static derrota + #214, #127
+  static derrota + #215, #127
+  static derrota + #216, #127
+  static derrota + #217, #127
+  static derrota + #218, #127
+  static derrota + #219, #127
+  static derrota + #220, #127
+  static derrota + #221, #127
+  static derrota + #222, #127
+  static derrota + #223, #127
+  static derrota + #224, #127
+  static derrota + #225, #127
+  static derrota + #226, #127
+  static derrota + #227, #127
+  static derrota + #228, #127
+  static derrota + #229, #2431
+  static derrota + #230, #2431
+  static derrota + #231, #2431
+  static derrota + #232, #127
+  static derrota + #233, #127
+  static derrota + #234, #127
+  static derrota + #235, #127
+  static derrota + #236, #127
+  static derrota + #237, #127
+  static derrota + #238, #127
+  static derrota + #239, #127
+
+  ;Linha 6
+  static derrota + #240, #127
+  static derrota + #241, #127
+  static derrota + #242, #127
+  static derrota + #243, #127
+  static derrota + #244, #127
+  static derrota + #245, #127
+  static derrota + #246, #127
+  static derrota + #247, #127
+  static derrota + #248, #127
+  static derrota + #249, #127
+  static derrota + #250, #127
+  static derrota + #251, #127
+  static derrota + #252, #127
+  static derrota + #253, #127
+  static derrota + #254, #127
+  static derrota + #255, #127
+  static derrota + #256, #127
+  static derrota + #257, #127
+  static derrota + #258, #127
+  static derrota + #259, #127
+  static derrota + #260, #127
+  static derrota + #261, #127
+  static derrota + #262, #127
+  static derrota + #263, #127
+  static derrota + #264, #127
+  static derrota + #265, #127
+  static derrota + #266, #127
+  static derrota + #267, #127
+  static derrota + #268, #2431
+  static derrota + #269, #2431
+  static derrota + #270, #127
+  static derrota + #271, #127
+  static derrota + #272, #127
+  static derrota + #273, #127
+  static derrota + #274, #127
+  static derrota + #275, #127
+  static derrota + #276, #127
+  static derrota + #277, #127
+  static derrota + #278, #127
+  static derrota + #279, #127
+
+  ;Linha 7
+  static derrota + #280, #127
+  static derrota + #281, #127
+  static derrota + #282, #127
+  static derrota + #283, #127
+  static derrota + #284, #127
+  static derrota + #285, #127
+  static derrota + #286, #3
+  static derrota + #287, #31
+  static derrota + #288, #31
+  static derrota + #289, #31
+  static derrota + #290, #31
+  static derrota + #291, #31
+  static derrota + #292, #31
+  static derrota + #293, #31
+  static derrota + #294, #31
+  static derrota + #295, #31
+  static derrota + #296, #31
+  static derrota + #297, #31
+  static derrota + #298, #31
+  static derrota + #299, #31
+  static derrota + #300, #31
+  static derrota + #301, #31
+  static derrota + #302, #31
+  static derrota + #303, #31
+  static derrota + #304, #31
+  static derrota + #305, #31
+  static derrota + #306, #31
+  static derrota + #307, #31
+  static derrota + #308, #31
+  static derrota + #309, #31
+  static derrota + #310, #31
+  static derrota + #311, #31
+  static derrota + #312, #3
+  static derrota + #313, #127
+  static derrota + #314, #127
+  static derrota + #315, #127
+  static derrota + #316, #127
+  static derrota + #317, #127
+  static derrota + #318, #127
+  static derrota + #319, #127
+
+  ;Linha 8
+  static derrota + #320, #127
+  static derrota + #321, #127
+  static derrota + #322, #127
+  static derrota + #323, #127
+  static derrota + #324, #127
+  static derrota + #325, #127
+  static derrota + #326, #32
+  static derrota + #327, #127
+  static derrota + #328, #127
+  static derrota + #329, #127
+  static derrota + #330, #127
+  static derrota + #331, #127
+  static derrota + #332, #127
+  static derrota + #333, #127
+  static derrota + #334, #127
+  static derrota + #335, #127
+  static derrota + #336, #127
+  static derrota + #337, #127
+  static derrota + #338, #127
+  static derrota + #339, #127
+  static derrota + #340, #127
+  static derrota + #341, #127
+  static derrota + #342, #127
+  static derrota + #343, #127
+  static derrota + #344, #127
+  static derrota + #345, #127
+  static derrota + #346, #2431
+  static derrota + #347, #2431
+  static derrota + #348, #2431
+  static derrota + #349, #127
+  static derrota + #350, #127
+  static derrota + #351, #127
+  static derrota + #352, #32
+  static derrota + #353, #127
+  static derrota + #354, #127
+  static derrota + #355, #127
+  static derrota + #356, #127
+  static derrota + #357, #127
+  static derrota + #358, #127
+  static derrota + #359, #127
+
+  ;Linha 9
+  static derrota + #360, #127
+  static derrota + #361, #127
+  static derrota + #362, #127
+  static derrota + #363, #127
+  static derrota + #364, #127
+  static derrota + #365, #127
+  static derrota + #366, #32
+  static derrota + #367, #127
+  static derrota + #368, #2431
+  static derrota + #369, #2336
+  static derrota + #370, #2335
+  static derrota + #371, #2304
+  static derrota + #372, #2306
+  static derrota + #373, #2335
+  static derrota + #374, #2335
+  static derrota + #375, #2306
+  static derrota + #376, #2335
+  static derrota + #377, #2304
+  static derrota + #378, #2306
+  static derrota + #379, #2335
+  static derrota + #380, #2304
+  static derrota + #381, #2306
+  static derrota + #382, #2335
+  static derrota + #383, #2304
+  static derrota + #384, #2335
+  static derrota + #385, #2335
+  static derrota + #386, #2335
+  static derrota + #387, #2306
+  static derrota + #388, #2335
+  static derrota + #389, #2304
+  static derrota + #390, #127
+  static derrota + #391, #127
+  static derrota + #392, #32
+  static derrota + #393, #127
+  static derrota + #394, #127
+  static derrota + #395, #127
+  static derrota + #396, #127
+  static derrota + #397, #127
+  static derrota + #398, #127
+  static derrota + #399, #127
+
+  ;Linha 10
+  static derrota + #400, #127
+  static derrota + #401, #127
+  static derrota + #402, #127
+  static derrota + #403, #127
+  static derrota + #404, #127
+  static derrota + #405, #127
+  static derrota + #406, #32
+  static derrota + #407, #127
+  static derrota + #408, #2431
+  static derrota + #409, #2336
+  static derrota + #410, #2431
+  static derrota + #411, #2336
+  static derrota + #412, #2336
+  static derrota + #413, #2431
+  static derrota + #414, #2431
+  static derrota + #415, #2336
+  static derrota + #416, #2431
+  static derrota + #417, #2336
+  static derrota + #418, #2336
+  static derrota + #419, #2431
+  static derrota + #420, #2336
+  static derrota + #421, #2336
+  static derrota + #422, #2431
+  static derrota + #423, #2336
+  static derrota + #424, #2431
+  static derrota + #425, #2336
+  static derrota + #426, #2431
+  static derrota + #427, #2336
+  static derrota + #428, #2431
+  static derrota + #429, #2336
+  static derrota + #430, #127
+  static derrota + #431, #127
+  static derrota + #432, #32
+  static derrota + #433, #127
+  static derrota + #434, #127
+  static derrota + #435, #127
+  static derrota + #436, #127
+  static derrota + #437, #127
+  static derrota + #438, #127
+  static derrota + #439, #127
+
+  ;Linha 11
+  static derrota + #440, #127
+  static derrota + #441, #127
+  static derrota + #442, #127
+  static derrota + #443, #127
+  static derrota + #444, #127
+  static derrota + #445, #127
+  static derrota + #446, #32
+  static derrota + #447, #127
+  static derrota + #448, #2431
+  static derrota + #449, #2336
+  static derrota + #450, #2431
+  static derrota + #451, #2336
+  static derrota + #452, #2336
+  static derrota + #453, #2335
+  static derrota + #454, #2431
+  static derrota + #455, #2336
+  static derrota + #456, #2335
+  static derrota + #457, #2308
+  static derrota + #458, #2336
+  static derrota + #459, #2335
+  static derrota + #460, #2308
+  static derrota + #461, #2336
+  static derrota + #462, #2431
+  static derrota + #463, #2336
+  static derrota + #464, #2431
+  static derrota + #465, #2336
+  static derrota + #466, #2431
+  static derrota + #467, #2336
+  static derrota + #468, #2335
+  static derrota + #469, #2336
+  static derrota + #470, #127
+  static derrota + #471, #127
+  static derrota + #472, #32
+  static derrota + #473, #127
+  static derrota + #474, #127
+  static derrota + #475, #127
+  static derrota + #476, #127
+  static derrota + #477, #127
+  static derrota + #478, #127
+  static derrota + #479, #127
+
+  ;Linha 12
+  static derrota + #480, #127
+  static derrota + #481, #127
+  static derrota + #482, #127
+  static derrota + #483, #127
+  static derrota + #484, #127
+  static derrota + #485, #127
+  static derrota + #486, #32
+  static derrota + #487, #127
+  static derrota + #488, #2431
+  static derrota + #489, #2336
+  static derrota + #490, #2431
+  static derrota + #491, #2336
+  static derrota + #492, #2336
+  static derrota + #493, #2431
+  static derrota + #494, #2431
+  static derrota + #495, #2336
+  static derrota + #496, #2320
+  static derrota + #497, #2431
+  static derrota + #498, #2336
+  static derrota + #499, #2320
+  static derrota + #500, #2431
+  static derrota + #501, #2336
+  static derrota + #502, #2431
+  static derrota + #503, #2336
+  static derrota + #504, #2431
+  static derrota + #505, #2336
+  static derrota + #506, #2431
+  static derrota + #507, #2336
+  static derrota + #508, #2431
+  static derrota + #509, #2336
+  static derrota + #510, #127
+  static derrota + #511, #127
+  static derrota + #512, #32
+  static derrota + #513, #127
+  static derrota + #514, #127
+  static derrota + #515, #127
+  static derrota + #516, #127
+  static derrota + #517, #127
+  static derrota + #518, #127
+  static derrota + #519, #127
+
+  ;Linha 13
+  static derrota + #520, #127
+  static derrota + #521, #127
+  static derrota + #522, #127
+  static derrota + #523, #127
+  static derrota + #524, #127
+  static derrota + #525, #127
+  static derrota + #526, #32
+  static derrota + #527, #127
+  static derrota + #528, #2431
+  static derrota + #529, #2336
+  static derrota + #530, #2335
+  static derrota + #531, #2308
+  static derrota + #532, #2305
+  static derrota + #533, #2335
+  static derrota + #534, #2335
+  static derrota + #535, #2336
+  static derrota + #536, #2431
+  static derrota + #537, #2320
+  static derrota + #538, #2336
+  static derrota + #539, #2431
+  static derrota + #540, #2320
+  static derrota + #541, #2305
+  static derrota + #542, #2335
+  static derrota + #543, #2308
+  static derrota + #544, #2431
+  static derrota + #545, #2336
+  static derrota + #546, #2431
+  static derrota + #547, #2336
+  static derrota + #548, #2431
+  static derrota + #549, #2336
+  static derrota + #550, #127
+  static derrota + #551, #127
+  static derrota + #552, #32
+  static derrota + #553, #127
+  static derrota + #554, #127
+  static derrota + #555, #127
+  static derrota + #556, #127
+  static derrota + #557, #127
+  static derrota + #558, #127
+  static derrota + #559, #127
+
+  ;Linha 14
+  static derrota + #560, #127
+  static derrota + #561, #127
+  static derrota + #562, #127
+  static derrota + #563, #127
+  static derrota + #564, #127
+  static derrota + #565, #127
+  static derrota + #566, #32
+  static derrota + #567, #127
+  static derrota + #568, #2431
+  static derrota + #569, #127
+  static derrota + #570, #127
+  static derrota + #571, #127
+  static derrota + #572, #127
+  static derrota + #573, #2431
+  static derrota + #574, #127
+  static derrota + #575, #127
+  static derrota + #576, #127
+  static derrota + #577, #127
+  static derrota + #578, #127
+  static derrota + #579, #127
+  static derrota + #580, #127
+  static derrota + #581, #127
+  static derrota + #582, #127
+  static derrota + #583, #127
+  static derrota + #584, #127
+  static derrota + #585, #127
+  static derrota + #586, #127
+  static derrota + #587, #127
+  static derrota + #588, #127
+  static derrota + #589, #127
+  static derrota + #590, #127
+  static derrota + #591, #127
+  static derrota + #592, #32
+  static derrota + #593, #127
+  static derrota + #594, #127
+  static derrota + #595, #127
+  static derrota + #596, #127
+  static derrota + #597, #127
+  static derrota + #598, #127
+  static derrota + #599, #127
+
+  ;Linha 15
+  static derrota + #600, #127
+  static derrota + #601, #127
+  static derrota + #602, #127
+  static derrota + #603, #127
+  static derrota + #604, #127
+  static derrota + #605, #127
+  static derrota + #606, #32
+  static derrota + #607, #127
+  static derrota + #608, #127
+  static derrota + #609, #127
+  static derrota + #610, #127
+  static derrota + #611, #127
+  static derrota + #612, #127
+  static derrota + #613, #127
+  static derrota + #614, #127
+  static derrota + #615, #83
+  static derrota + #616, #67
+  static derrota + #617, #79
+  static derrota + #618, #82
+  static derrota + #619, #69
+  static derrota + #620, #58
+  static derrota + #621, #127
+  static derrota + #622, #127
+  static derrota + #623, #127
+  static derrota + #624, #127
+  static derrota + #625, #127
+  static derrota + #626, #127
+  static derrota + #627, #127
+  static derrota + #628, #127
+  static derrota + #629, #127
+  static derrota + #630, #127
+  static derrota + #631, #127
+  static derrota + #632, #32
+  static derrota + #633, #127
+  static derrota + #634, #127
+  static derrota + #635, #127
+  static derrota + #636, #127
+  static derrota + #637, #127
+  static derrota + #638, #127
+  static derrota + #639, #127
+
+  ;Linha 16
+  static derrota + #640, #127
+  static derrota + #641, #127
+  static derrota + #642, #127
+  static derrota + #643, #127
+  static derrota + #644, #127
+  static derrota + #645, #127
+  static derrota + #646, #32
+  static derrota + #647, #127
+  static derrota + #648, #127
+  static derrota + #649, #127
+  static derrota + #650, #127
+  static derrota + #651, #127
+  static derrota + #652, #11
+  static derrota + #653, #11
+  static derrota + #654, #11
+  static derrota + #655, #11
+  static derrota + #656, #11
+  static derrota + #657, #11
+  static derrota + #658, #11
+  static derrota + #659, #11
+  static derrota + #660, #11
+  static derrota + #661, #11
+  static derrota + #662, #11
+  static derrota + #663, #11
+  static derrota + #664, #11
+  static derrota + #665, #11
+  static derrota + #666, #11
+  static derrota + #667, #11
+  static derrota + #668, #127
+  static derrota + #669, #127
+  static derrota + #670, #127
+  static derrota + #671, #127
+  static derrota + #672, #32
+  static derrota + #673, #127
+  static derrota + #674, #127
+  static derrota + #675, #127
+  static derrota + #676, #127
+  static derrota + #677, #127
+  static derrota + #678, #127
+  static derrota + #679, #127
+
+  ;Linha 17
+  static derrota + #680, #127
+  static derrota + #681, #127
+  static derrota + #682, #127
+  static derrota + #683, #127
+  static derrota + #684, #127
+  static derrota + #685, #127
+  static derrota + #686, #32
+  static derrota + #687, #127
+  static derrota + #688, #127
+  static derrota + #689, #127
+  static derrota + #690, #127
+  static derrota + #691, #127
+  static derrota + #692, #127
+  static derrota + #693, #127
+  static derrota + #694, #127
+  static derrota + #695, #127
+  static derrota + #696, #127
+  static derrota + #697, #127
+  static derrota + #698, #127
+  static derrota + #699, #127
+  static derrota + #700, #127
+  static derrota + #701, #127
+  static derrota + #702, #127
+  static derrota + #703, #127
+  static derrota + #704, #127
+  static derrota + #705, #127
+  static derrota + #706, #127
+  static derrota + #707, #127
+  static derrota + #708, #127
+  static derrota + #709, #127
+  static derrota + #710, #127
+  static derrota + #711, #127
+  static derrota + #712, #32
+  static derrota + #713, #127
+  static derrota + #714, #127
+  static derrota + #715, #127
+  static derrota + #716, #127
+  static derrota + #717, #127
+  static derrota + #718, #127
+  static derrota + #719, #127
+
+  ;Linha 18
+  static derrota + #720, #127
+  static derrota + #721, #127
+  static derrota + #722, #127
+  static derrota + #723, #127
+  static derrota + #724, #127
+  static derrota + #725, #127
+  static derrota + #726, #32
+  static derrota + #727, #127
+  static derrota + #728, #127
+  static derrota + #729, #127
+  static derrota + #730, #127
+  static derrota + #731, #49
+  static derrota + #732, #46
+  static derrota + #733, #84
+  static derrota + #734, #69
+  static derrota + #735, #78
+  static derrota + #736, #84
+  static derrota + #737, #65
+  static derrota + #738, #82
+  static derrota + #739, #127
+  static derrota + #740, #78
+  static derrota + #741, #79
+  static derrota + #742, #86
+  static derrota + #743, #65
+  static derrota + #744, #77
+  static derrota + #745, #69
+  static derrota + #746, #78
+  static derrota + #747, #84
+  static derrota + #748, #69
+  static derrota + #749, #127
+  static derrota + #750, #127
+  static derrota + #751, #127
+  static derrota + #752, #32
+  static derrota + #753, #127
+  static derrota + #754, #127
+  static derrota + #755, #127
+  static derrota + #756, #127
+  static derrota + #757, #127
+  static derrota + #758, #127
+  static derrota + #759, #127
+
+  ;Linha 19
+  static derrota + #760, #127
+  static derrota + #761, #127
+  static derrota + #762, #127
+  static derrota + #763, #127
+  static derrota + #764, #127
+  static derrota + #765, #127
+  static derrota + #766, #32
+  static derrota + #767, #127
+  static derrota + #768, #127
+  static derrota + #769, #127
+  static derrota + #770, #127
+  static derrota + #771, #127
+  static derrota + #772, #127
+  static derrota + #773, #127
+  static derrota + #774, #127
+  static derrota + #775, #127
+  static derrota + #776, #127
+  static derrota + #777, #127
+  static derrota + #778, #127
+  static derrota + #779, #127
+  static derrota + #780, #127
+  static derrota + #781, #127
+  static derrota + #782, #127
+  static derrota + #783, #127
+  static derrota + #784, #127
+  static derrota + #785, #127
+  static derrota + #786, #127
+  static derrota + #787, #127
+  static derrota + #788, #127
+  static derrota + #789, #127
+  static derrota + #790, #127
+  static derrota + #791, #127
+  static derrota + #792, #32
+  static derrota + #793, #127
+  static derrota + #794, #127
+  static derrota + #795, #127
+  static derrota + #796, #127
+  static derrota + #797, #127
+  static derrota + #798, #127
+  static derrota + #799, #127
+
+  ;Linha 20
+  static derrota + #800, #127
+  static derrota + #801, #127
+  static derrota + #802, #127
+  static derrota + #803, #127
+  static derrota + #804, #127
+  static derrota + #805, #127
+  static derrota + #806, #32
+  static derrota + #807, #127
+  static derrota + #808, #127
+  static derrota + #809, #127
+  static derrota + #810, #127
+  static derrota + #811, #127
+  static derrota + #812, #127
+  static derrota + #813, #127
+  static derrota + #814, #127
+  static derrota + #815, #127
+  static derrota + #816, #50
+  static derrota + #817, #46
+  static derrota + #818, #83
+  static derrota + #819, #65
+  static derrota + #820, #73
+  static derrota + #821, #82
+  static derrota + #822, #127
+  static derrota + #823, #127
+  static derrota + #824, #127
+  static derrota + #825, #127
+  static derrota + #826, #127
+  static derrota + #827, #127
+  static derrota + #828, #127
+  static derrota + #829, #127
+  static derrota + #830, #127
+  static derrota + #831, #127
+  static derrota + #832, #32
+  static derrota + #833, #127
+  static derrota + #834, #127
+  static derrota + #835, #127
+  static derrota + #836, #127
+  static derrota + #837, #127
+  static derrota + #838, #127
+  static derrota + #839, #127
+
+  ;Linha 21
+  static derrota + #840, #127
+  static derrota + #841, #127
+  static derrota + #842, #127
+  static derrota + #843, #127
+  static derrota + #844, #127
+  static derrota + #845, #127
+  static derrota + #846, #32
+  static derrota + #847, #127
+  static derrota + #848, #127
+  static derrota + #849, #127
+  static derrota + #850, #127
+  static derrota + #851, #127
+  static derrota + #852, #127
+  static derrota + #853, #127
+  static derrota + #854, #127
+  static derrota + #855, #127
+  static derrota + #856, #127
+  static derrota + #857, #127
+  static derrota + #858, #127
+  static derrota + #859, #127
+  static derrota + #860, #127
+  static derrota + #861, #127
+  static derrota + #862, #127
+  static derrota + #863, #127
+  static derrota + #864, #127
+  static derrota + #865, #127
+  static derrota + #866, #127
+  static derrota + #867, #127
+  static derrota + #868, #127
+  static derrota + #869, #127
+  static derrota + #870, #127
+  static derrota + #871, #127
+  static derrota + #872, #32
+  static derrota + #873, #127
+  static derrota + #874, #127
+  static derrota + #875, #127
+  static derrota + #876, #127
+  static derrota + #877, #127
+  static derrota + #878, #127
+  static derrota + #879, #127
+
+  ;Linha 22
+  static derrota + #880, #127
+  static derrota + #881, #127
+  static derrota + #882, #127
+  static derrota + #883, #127
+  static derrota + #884, #127
+  static derrota + #885, #127
+  static derrota + #886, #3
+  static derrota + #887, #31
+  static derrota + #888, #31
+  static derrota + #889, #31
+  static derrota + #890, #31
+  static derrota + #891, #31
+  static derrota + #892, #31
+  static derrota + #893, #31
+  static derrota + #894, #31
+  static derrota + #895, #31
+  static derrota + #896, #31
+  static derrota + #897, #31
+  static derrota + #898, #31
+  static derrota + #899, #31
+  static derrota + #900, #31
+  static derrota + #901, #31
+  static derrota + #902, #31
+  static derrota + #903, #31
+  static derrota + #904, #31
+  static derrota + #905, #31
+  static derrota + #906, #31
+  static derrota + #907, #31
+  static derrota + #908, #31
+  static derrota + #909, #31
+  static derrota + #910, #31
+  static derrota + #911, #31
+  static derrota + #912, #3
+  static derrota + #913, #127
+  static derrota + #914, #127
+  static derrota + #915, #127
+  static derrota + #916, #127
+  static derrota + #917, #127
+  static derrota + #918, #127
+  static derrota + #919, #127
+
+  ;Linha 23
+  static derrota + #920, #127
+  static derrota + #921, #127
+  static derrota + #922, #127
+  static derrota + #923, #127
+  static derrota + #924, #127
+  static derrota + #925, #127
+  static derrota + #926, #127
+  static derrota + #927, #127
+  static derrota + #928, #127
+  static derrota + #929, #127
+  static derrota + #930, #127
+  static derrota + #931, #127
+  static derrota + #932, #127
+  static derrota + #933, #127
+  static derrota + #934, #127
+  static derrota + #935, #127
+  static derrota + #936, #127
+  static derrota + #937, #127
+  static derrota + #938, #127
+  static derrota + #939, #127
+  static derrota + #940, #127
+  static derrota + #941, #127
+  static derrota + #942, #127
+  static derrota + #943, #127
+  static derrota + #944, #127
+  static derrota + #945, #127
+  static derrota + #946, #127
+  static derrota + #947, #127
+  static derrota + #948, #127
+  static derrota + #949, #127
+  static derrota + #950, #127
+  static derrota + #951, #127
+  static derrota + #952, #127
+  static derrota + #953, #127
+  static derrota + #954, #127
+  static derrota + #955, #127
+  static derrota + #956, #127
+  static derrota + #957, #127
+  static derrota + #958, #127
+  static derrota + #959, #127
+
+  ;Linha 24
+  static derrota + #960, #127
+  static derrota + #961, #127
+  static derrota + #962, #127
+  static derrota + #963, #127
+  static derrota + #964, #127
+  static derrota + #965, #127
+  static derrota + #966, #127
+  static derrota + #967, #127
+  static derrota + #968, #127
+  static derrota + #969, #127
+  static derrota + #970, #127
+  static derrota + #971, #127
+  static derrota + #972, #127
+  static derrota + #973, #127
+  static derrota + #974, #127
+  static derrota + #975, #127
+  static derrota + #976, #127
+  static derrota + #977, #127
+  static derrota + #978, #127
+  static derrota + #979, #127
+  static derrota + #980, #127
+  static derrota + #981, #127
+  static derrota + #982, #127
+  static derrota + #983, #127
+  static derrota + #984, #127
+  static derrota + #985, #127
+  static derrota + #986, #127
+  static derrota + #987, #127
+  static derrota + #988, #127
+  static derrota + #989, #127
+  static derrota + #990, #127
+  static derrota + #991, #127
+  static derrota + #992, #127
+  static derrota + #993, #127
+  static derrota + #994, #127
+  static derrota + #995, #127
+  static derrota + #996, #127
+  static derrota + #997, #127
+  static derrota + #998, #127
+  static derrota + #999, #127
+
+  ;Linha 25
+  static derrota + #1000, #127
+  static derrota + #1001, #127
+  static derrota + #1002, #127
+  static derrota + #1003, #127
+  static derrota + #1004, #127
+  static derrota + #1005, #127
+  static derrota + #1006, #127
+  static derrota + #1007, #127
+  static derrota + #1008, #127
+  static derrota + #1009, #127
+  static derrota + #1010, #127
+  static derrota + #1011, #127
+  static derrota + #1012, #127
+  static derrota + #1013, #127
+  static derrota + #1014, #127
+  static derrota + #1015, #127
+  static derrota + #1016, #127
+  static derrota + #1017, #127
+  static derrota + #1018, #127
+  static derrota + #1019, #127
+  static derrota + #1020, #127
+  static derrota + #1021, #127
+  static derrota + #1022, #127
+  static derrota + #1023, #127
+  static derrota + #1024, #127
+  static derrota + #1025, #127
+  static derrota + #1026, #127
+  static derrota + #1027, #127
+  static derrota + #1028, #127
+  static derrota + #1029, #127
+  static derrota + #1030, #127
+  static derrota + #1031, #127
+  static derrota + #1032, #127
+  static derrota + #1033, #127
+  static derrota + #1034, #127
+  static derrota + #1035, #127
+  static derrota + #1036, #127
+  static derrota + #1037, #127
+  static derrota + #1038, #127
+  static derrota + #1039, #127
+
+  ;Linha 26
+  static derrota + #1040, #127
+  static derrota + #1041, #127
+  static derrota + #1042, #127
+  static derrota + #1043, #127
+  static derrota + #1044, #127
+  static derrota + #1045, #127
+  static derrota + #1046, #127
+  static derrota + #1047, #127
+  static derrota + #1048, #127
+  static derrota + #1049, #127
+  static derrota + #1050, #127
+  static derrota + #1051, #127
+  static derrota + #1052, #127
+  static derrota + #1053, #127
+  static derrota + #1054, #127
+  static derrota + #1055, #127
+  static derrota + #1056, #127
+  static derrota + #1057, #127
+  static derrota + #1058, #127
+  static derrota + #1059, #127
+  static derrota + #1060, #127
+  static derrota + #1061, #127
+  static derrota + #1062, #127
+  static derrota + #1063, #127
+  static derrota + #1064, #127
+  static derrota + #1065, #127
+  static derrota + #1066, #127
+  static derrota + #1067, #127
+  static derrota + #1068, #127
+  static derrota + #1069, #127
+  static derrota + #1070, #127
+  static derrota + #1071, #127
+  static derrota + #1072, #127
+  static derrota + #1073, #127
+  static derrota + #1074, #127
+  static derrota + #1075, #127
+  static derrota + #1076, #127
+  static derrota + #1077, #127
+  static derrota + #1078, #127
+  static derrota + #1079, #127
+
+  ;Linha 27
+  static derrota + #1080, #127
+  static derrota + #1081, #127
+  static derrota + #1082, #127
+  static derrota + #1083, #127
+  static derrota + #1084, #127
+  static derrota + #1085, #127
+  static derrota + #1086, #127
+  static derrota + #1087, #127
+  static derrota + #1088, #127
+  static derrota + #1089, #127
+  static derrota + #1090, #127
+  static derrota + #1091, #127
+  static derrota + #1092, #127
+  static derrota + #1093, #127
+  static derrota + #1094, #127
+  static derrota + #1095, #127
+  static derrota + #1096, #127
+  static derrota + #1097, #127
+  static derrota + #1098, #127
+  static derrota + #1099, #127
+  static derrota + #1100, #127
+  static derrota + #1101, #127
+  static derrota + #1102, #127
+  static derrota + #1103, #127
+  static derrota + #1104, #127
+  static derrota + #1105, #127
+  static derrota + #1106, #127
+  static derrota + #1107, #127
+  static derrota + #1108, #127
+  static derrota + #1109, #127
+  static derrota + #1110, #127
+  static derrota + #1111, #127
+  static derrota + #1112, #127
+  static derrota + #1113, #127
+  static derrota + #1114, #127
+  static derrota + #1115, #127
+  static derrota + #1116, #127
+  static derrota + #1117, #127
+  static derrota + #1118, #127
+  static derrota + #1119, #127
+
+  ;Linha 28
+  static derrota + #1120, #127
+  static derrota + #1121, #127
+  static derrota + #1122, #127
+  static derrota + #1123, #127
+  static derrota + #1124, #127
+  static derrota + #1125, #127
+  static derrota + #1126, #127
+  static derrota + #1127, #127
+  static derrota + #1128, #127
+  static derrota + #1129, #127
+  static derrota + #1130, #127
+  static derrota + #1131, #127
+  static derrota + #1132, #127
+  static derrota + #1133, #127
+  static derrota + #1134, #127
+  static derrota + #1135, #127
+  static derrota + #1136, #127
+  static derrota + #1137, #127
+  static derrota + #1138, #127
+  static derrota + #1139, #127
+  static derrota + #1140, #127
+  static derrota + #1141, #127
+  static derrota + #1142, #127
+  static derrota + #1143, #127
+  static derrota + #1144, #127
+  static derrota + #1145, #127
+  static derrota + #1146, #127
+  static derrota + #1147, #127
+  static derrota + #1148, #127
+  static derrota + #1149, #127
+  static derrota + #1150, #127
+  static derrota + #1151, #127
+  static derrota + #1152, #127
+  static derrota + #1153, #127
+  static derrota + #1154, #127
+  static derrota + #1155, #127
+  static derrota + #1156, #127
+  static derrota + #1157, #127
+  static derrota + #1158, #127
+  static derrota + #1159, #127
+
+  ;Linha 29
+  static derrota + #1160, #127
+  static derrota + #1161, #127
+  static derrota + #1162, #127
+  static derrota + #1163, #127
+  static derrota + #1164, #127
+  static derrota + #1165, #127
+  static derrota + #1166, #127
+  static derrota + #1167, #127
+  static derrota + #1168, #127
+  static derrota + #1169, #127
+  static derrota + #1170, #127
+  static derrota + #1171, #127
+  static derrota + #1172, #127
+  static derrota + #1173, #127
+  static derrota + #1174, #127
+  static derrota + #1175, #127
+  static derrota + #1176, #127
+  static derrota + #1177, #127
+  static derrota + #1178, #127
+  static derrota + #1179, #127
+  static derrota + #1180, #127
+  static derrota + #1181, #127
+  static derrota + #1182, #127
+  static derrota + #1183, #127
+  static derrota + #1184, #127
+  static derrota + #1185, #127
+  static derrota + #1186, #127
+  static derrota + #1187, #127
+  static derrota + #1188, #127
+  static derrota + #1189, #127
+  static derrota + #1190, #127
+  static derrota + #1191, #127
+  static derrota + #1192, #127
+  static derrota + #1193, #127
+  static derrota + #1194, #127
+  static derrota + #1195, #127
+  static derrota + #1196, #127
+  static derrota + #1197, #127
+  static derrota + #1198, #127
+  static derrota + #1199, #127
+
+sobrePrincipal : var #10
+  static sobrePrincipal + #0, #0
+  static sobrePrincipal + #1, #0
+  static sobrePrincipal + #2, #1
+  static sobrePrincipal + #3, #39
+  static sobrePrincipal + #4, #40
+  static sobrePrincipal + #5, #41
+  static sobrePrincipal + #6, #80
+  static sobrePrincipal + #7, #119
+  static sobrePrincipal + #8, #120
+  static sobrePrincipal + #9, #121
+
+sobreInimigo : var #10
+  static sobreInimigo + #0, #0
+  static sobreInimigo + #1, #0
+  static sobreInimigo + #2, #1
+  static sobreInimigo + #3, #40
+  static sobreInimigo + #4, #79
+  static sobreInimigo + #5, #80
+  static sobreInimigo + #6, #81
+  static sobreInimigo + #7, #119
+  static sobreInimigo + #8, #120
+  static sobreInimigo + #9, #121
 
 ;Variáveis que serão utilizadas pelo jogo
 dif: var #1     ; Define a dificuldade do jogo
 posCarro: var #1 ; Contém a posição atual do personagem principal
 posAntCarro: var #1 ; Contém a posição anterior do personagem principal
+
+posInimigo1: var #1 ; Contém a posição atual do inimigo 1
+posAntInimigo1: var #1 ; Contém a posição anterior do inimigo 1
+velInimigo1: var #1 ; Contém a velocidade do inimigo 1
+
+posInimigo2: var #1 ; Contém a posição atual do inimigo 2
+posAntInimigo2: var #1 ; Contém a posição anterior do inimigo 2
+velInimigo2: var #1 ; Contém a velocidade do inimigo 2
+
+posInimigo3: var #1 ; Contém a posição atual do inimigo 3
+posAntInimigo3: var #1 ; Contém a posição anterior do inimigo 3
+velInimigo3: var #1 ; Contém a velocidade do inimigo 3
+
+posInimigo4: var #1 ; Contém a posição atual do inimigo 4
+posAntInimigo4: var #1 ; Contém a posição anterior do inimigo 4
+velInimigo4: var #1 ; Contém a velocidade do inimigo 4
+
+score: var #1 ;Pontuação
+
 
 ;Código Principal
 main:
@@ -3857,25 +5291,26 @@ startGame:
   loadn R0, #mapa_principal ; Carrega o mapa principal
   call prinTela ; Imprime o mapa principal
 
-  ; Definir posição inicial do personagem principal
-  loadn R0, #1019
+  call inicializaInimigos
 
-  store posCarro, R0 ; Posição inicial do personagem principal
-  store posAntCarro, R0 ; Posição inicial do personagem principal (anterior)
+  call ajustarVelocidades
+
+  call iniciaPrincipal
 
   loadn R0, #0			; Contador para os Mods	= 0
 	loadn R2, #0			; Para verificar se (mod(c/10)==0
   loadn R3, #0			; Contador de Pontos
   load R4, dif			; Dificuldade
+  loadn R5, #0			; Incrementador dificuldade
 
   cmp R4, R0
   ceq ajusteDif ; Se a dificuldade for 0, ajusta para 1
 
-  call desenhaCarro ; Desenha o carro na posição inicial
+  call desenhar_principal ; Desenha o carro na posição inicial
 
   loopPrincipal:
 
-      loadn R1, #20 ; Podemos ajustar a velocidade do carro aqui
+      loadn R1, #5 ; Podemos ajustar a velocidade do carro aqui
       mod R1, R0, R1
       cmp R1, R2		; if (mod(c/10)==0
       ceq MoveCarro	; Chama Rotina de movimentacao da Nave
@@ -3886,9 +5321,215 @@ startGame:
       cmp R1, R2		; if (mod(c/150 * R4)==0
       ceq Pontua    ; Chama Rotina de Pontuação
 
+      loadn R1, #300
+      mul R1, R1, R4
+      mod R1, R0, R1
+      cmp R1, R2		; if (mod(c/150 * R4)==0
+      ceq aumentaDif    ; Chama Rotina de Pontuação
+
+      load R1, velInimigo1               ; Ajusta a velocidade do movimento dos inimigos
+      sub R1, R1, R5
+      mod R1, R0, R1
+      cmp R1, R2
+      ceq MoveInimigo1            ; Chama a rotina de movimentação vertical dos inimigos
+
+      load R1, velInimigo2              ; Ajusta a velocidade do movimento dos inimigos
+      sub R1, R1, R5
+      mod R1, R0, R1
+      cmp R1, R2
+      ceq MoveInimigo2            ; Chama a rotina de movimentação vertical dos inimigos
+
+      load R1, velInimigo3               ; Ajusta a velocidade do movimento dos inimigos
+      sub R1, R1, R5
+      mod R1, R0, R1
+      cmp R1, R2
+      ceq MoveInimigo3            ; Chama a rotina de movimentação vertical dos inimigos
+
+      load R1, velInimigo4               ; Ajusta a velocidade do movimento dos inimigos
+      sub R1, R1, R5
+      mod R1, R0, R1
+      cmp R1, R2
+      ceq MoveInimigo4            ; Chama a rotina de movimentação vertical dos inimigos
+
+      loadn R1, #1               ; Ajusta a velocidade do movimento dos inimigos
+      mod R1, R0, R1
+      cmp R1, R2
+      ceq DetectaColisao            ; Chama a rotina de movimentação vertical dos inimigos
+
       call Delay          ; Adiciona um atraso para suavizar a movimentação
       inc R0 ; Incrementa o contador de Mods
       jmp loopPrincipal ; Loop
+
+  rts
+
+
+; Função que ajusta a velocidade com base na dificuldade do jogo
+ajustarVelocidades:
+
+  push R0
+  push R1
+
+  load R0, dif
+
+  ; Caso a dificuldade seja 1, não ajusta a velocidade
+  loadn R1, #1
+  cmp R1, R0
+  jeq ajustarVelocidades_end
+
+  loadn R1, #3
+
+  mul R0, R0, R0
+  add R0, R0, R1
+
+  load R1, velInimigo1
+  sub R1, R1, R0
+  store velInimigo1, R1
+
+  load R1, velInimigo2
+  sub R1, R1, R0
+  store velInimigo2, R1
+
+  load R1, velInimigo3
+  sub R1, R1, R0
+  store velInimigo3, R1
+
+  load R1, velInimigo4
+  sub R1, R1, R0
+  store velInimigo4, R1
+
+  jmp ajustarVelocidades_end
+
+ajustarVelocidades_end:
+  pop R1
+  pop R0
+
+  rts
+
+aumentaDif:
+
+  inc R5
+  rts
+
+iniciaPrincipal:
+
+  push R0
+
+  ; Definir posição inicial do personagem principal
+  loadn R0, #1019
+
+  store posCarro, R0 ; Posição inicial do personagem principal
+  store posAntCarro, R0 ; Posição inicial do personagem principal (anterior)
+
+  pop R0
+
+  rts
+
+;Função que configura o jogo
+inicializaInimigos:
+
+  push R0
+
+  ; Definir posição inicial do inimigo 1
+  loadn R0, #26
+  store posInimigo1, R0
+  store posAntInimigo1, R0
+
+  ; Definir velocidade do inimigo 1
+  loadn R0, #30
+  store velInimigo1, R0
+
+  ; Definir posição inicial do inimigo 2
+  loadn R0, #21
+  store posInimigo2, R0
+  store posAntInimigo2, R0
+
+  ; Definir velocidade do inimigo 2
+  loadn R0, #27
+  store velInimigo2, R0
+
+  ; Definir posição inicial do inimigo 3
+  loadn R0, #16
+  store posInimigo3, R0
+  store posAntInimigo3, R0
+
+  ; Definir velocidade do inimigo 3
+  loadn R0, #25
+  store velInimigo3, R0
+
+  ; Definir posição inicial do inimigo 4
+  loadn R0, #131
+  store posInimigo4, R0
+  store posAntInimigo4, R0
+
+  ; Definir velocidade do inimigo 4
+  loadn R0, #40
+  store velInimigo4, R0
+
+  pop R0
+
+  rts
+
+;Função que cria um inimigo
+criaInimigo: ; R5 determina qual inimigo será criado
+
+  push R0
+  push R1
+  push R2
+  push R3
+
+  loadn R3, #1
+  cmp R5, R3
+  jeq criaInimigo1
+
+  loadn R3, #2
+  cmp R5, R3
+  jeq criaInimigo2
+
+  loadn R3, #3
+  cmp R5, R3
+  jeq criaInimigo3
+
+  loadn R3, #4
+  cmp R5, R3
+  jeq criaInimigo4
+
+  ; Caso R5 não seja válido, chama cria_end e retorna
+  jmp cria_end
+
+criaInimigo1:
+  load R2, posInimigo1
+  loadn R0, #inimigo_1
+  loadn R1, #inimigo_1Gaps
+  store posAntInimigo1, R2
+  call desenhar_inimigo
+  jmp cria_end ; Retorna após desenhar o inimigo
+
+criaInimigo2:
+  load R2, posInimigo2
+  loadn R0, #inimigo_2
+  loadn R1, #inimigo_2Gaps
+  call desenhar_inimigo
+  jmp cria_end ; Retorna após desenhar o inimigo
+
+criaInimigo3:
+  load R2, posInimigo3
+  loadn R0, #inimigo_3
+  loadn R1, #inimigo_3Gaps
+  call desenhar_inimigo
+  jmp cria_end ; Retorna após desenhar o inimigo
+
+criaInimigo4:
+  load R2, posInimigo4
+  loadn R0, #inimigo_4
+  loadn R1, #inimigo_4Gaps
+  call desenhar_inimigo
+  jmp cria_end ; Retorna após desenhar o inimigo
+
+cria_end:
+  pop R3
+  pop R2
+  pop R1
+  pop R0
 
   rts
 
@@ -3901,8 +5542,8 @@ ajusteDif:
 ;Função que pontua
 Pontua: 
     call PrintPontos
+    store score, R3
     call IncrementaPontos
-
     rts
 
 ;Função que imprime os pontos
@@ -3938,8 +5579,8 @@ MoveCarro:
     load R1, posAntCarro
     cmp R0, R1
     jeq MoveCarro_Skip 
-        call apagarperso_principal ; Apaga o carro
-        call desenhaCarro ; Desenha o carro
+        call apagar_principal ; Apaga o carro
+        call desenhar_principal ; Desenha o carro
 
     MoveCarro_Skip:
 
@@ -3968,7 +5609,7 @@ MoveCarro_RecalculaPos:
 
 ; Movimenta o carro para a esquerda
 MoveCarro_Left:
-    loadn R2, #1007
+    loadn R2, #1009
     cmp R0, R2              ; Testa se está no limite esquerdo
     jeq MoveCarro_End
     dec R0                  ; Move para a esquerda
@@ -3976,7 +5617,7 @@ MoveCarro_Left:
 
 ; Movimenta o carro para a direita
 MoveCarro_Right:
-    loadn R2, #1030
+    loadn R2, #1028
     cmp R0, R2              ; Testa se está no limite direito
     jeq MoveCarro_End
     inc R0                  ; Move para a direita
@@ -3991,7 +5632,7 @@ MoveCarro_End:
     rts
 
 ; Função que desenha o carro
-desenhaCarro:
+desenhar_principal:
   push R0
   push R1
   push R2
@@ -4007,7 +5648,7 @@ desenhaCarro:
   loadn R3, #10 ;tamanho perso_principal
   loadn R4, #0 ;incremetador
 
-  desenhaCarroLoop:
+  desenhar_principalLoop:
     add R5,R0,R4
     loadi R5, R5
 
@@ -4021,7 +5662,7 @@ desenhaCarro:
     inc R2
      inc R4
      cmp R3, R4
-    jne desenhaCarroLoop
+    jne desenhar_principalLoop
 
   pop R6
   pop R5
@@ -4033,7 +5674,7 @@ desenhaCarro:
   rts
 
 ;Função que apaga o carro
-apagarperso_principal:
+apagar_principal:
   push R0
   push R1
   push R2
@@ -4047,7 +5688,7 @@ apagarperso_principal:
   loadn R3, #10 ;tamanho perso_principal
   loadn R4, #0 ;incremetador
 
-  apagarperso_principalLoop:
+  apagar_principalLoop:
     add R5,R1,R4
     loadi R5, R5
 
@@ -4057,7 +5698,7 @@ apagarperso_principal:
     inc R2
      inc R4
      cmp R3, R4
-    jne apagarperso_principalLoop
+    jne apagar_principalLoop
 
   pop R5
   pop R4
@@ -4065,6 +5706,127 @@ apagarperso_principal:
   pop R2
   pop R1
   pop R0
+  rts
+
+; Função que desenha o inimigo
+desenhar_inimigo:
+  push R3
+  push R4
+  push R5
+  push R6
+
+  loadn R3, #10 ;tamanho inimigo_1
+  loadn R4, #0 ;incremetador
+
+  desenhar_inimigoLoop:
+    add R5,R0,R4
+    loadi R5, R5
+
+    add R6,R1,R4
+    loadi R6, R6
+
+    add R2, R2, R6
+
+    outchar R5, R2
+
+    inc R2
+     inc R4
+     cmp R3, R4
+    jne desenhar_inimigoLoop
+
+  pop R6
+  pop R5
+  pop R4
+  pop R3
+  rts
+
+
+;Função que exclui um inimigo
+excluiInimigo: ; R5 determina qual inimigo será excluido
+
+  push R0
+  push R1
+  push R2
+  push R3
+
+  loadn R3, #1
+  cmp R5, R3
+  jeq excluiInimigo1
+
+  loadn R3, #2
+  cmp R5, R3
+  jeq excluiInimigo2
+
+  loadn R3, #3
+  cmp R5, R3
+  jeq excluiInimigo3
+
+  loadn R3, #4
+  cmp R5, R3
+  jeq excluiInimigo4
+
+  ; Caso R5 não seja válido, chama exclui_end e retorna
+  jmp exclui_end
+
+excluiInimigo1:
+  load R2, posAntInimigo1
+  loadn R1, #inimigo_1Gaps
+  call apagarInimigo
+  jmp exclui_end ; Retorna após apagar o inimigo
+
+excluiInimigo2:
+  load R2, posAntInimigo2
+  loadn R1, #inimigo_2Gaps
+  call apagarInimigo
+  jmp exclui_end ; Retorna após apagar o inimigo
+
+excluiInimigo3:
+  load R2, posAntInimigo3
+  loadn R1, #inimigo_3Gaps
+  call apagarInimigo
+  jmp exclui_end ; Retorna após apagar o inimigo
+
+excluiInimigo4:
+  load R2, posAntInimigo4
+  loadn R1, #inimigo_4Gaps
+  call apagarInimigo
+  jmp exclui_end ; Retorna após apagar o inimigo
+
+exclui_end:
+  pop R3
+  pop R2
+  pop R1
+  pop R0
+
+  rts
+
+apagarInimigo:
+  push R0
+  push R3
+  push R4
+  push R5
+
+  loadn R0, #3967
+  loadn R3, #10 ;tamanho inimigo
+  loadn R4, #0 ;incremetador
+
+  apagarInimigoLoop:
+    add R5,R1,R4
+    loadi R5, R5
+
+    add R2,R2,R5
+    outchar R0, R2
+
+    inc R2
+     inc R4
+     cmp R3, R4
+    jne apagarInimigoLoop
+
+  pop R5
+  pop R4
+  pop R3
+  pop R0
+
   rts
 
 ; Função de configuração
@@ -4224,3 +5986,261 @@ PrintR5R6:    ; R5 contem um numero de ate' 2 digitos e R6 a posicao onde vai im
     pop R0
     
     RTS
+
+; Sorteia um inimigo para movimentação
+sorteiaInimigos:
+  push R0
+  push R1
+  push R2
+
+; sorteia nr. randomico entre 0 - 4
+	loadn R2, #Rand 	; declara ponteiro para tabela rand na memoria
+	load R1, IncRand	; Pega Incremento da tabela Rand
+	add R2, R2, R1		; Soma Incremento ao inicio da tabela Rand
+						; R2 = Rand + IncRand
+	loadi R5, R2 		; busca nr. randomico da memoria em R3
+						; R3 = Rand(IncRand)
+	inc R1				; Incremento ++
+	loadn R2, #30		; define limite superior da tabela (tamanho total da tabela Rand)
+	cmp R1, R2			; Compara com o Final da Tabela e reinicia se necessário
+	jne Skip_Rand_Reset
+		loadn R1, #0	; Reinicia o incremento se chegar ao final da tabela
+
+  Skip_Rand_Reset:
+    store IncRand, R1	; Salva incremento atualizado
+
+  pop R2
+  pop R1
+  pop R0
+
+  rts
+
+; Rotina de movimentação dos inimigos
+MoveInimigo1:
+    push R0
+    push R1
+    push R2
+    push R3
+
+    load R0, posInimigo1        ; Carrega a posição atual
+    load R1, posAntInimigo1     ; Carrega a posição anterior
+    store posAntInimigo1, R1    ; Atualiza a posição anterior com a atual
+    loadn R2, #40               ; Velocidade do inimigo 1
+    add R0, R0, R2              ; Move o inimigo para baixo
+    loadn R3, #1186             ; Limite inferior da tela
+    cmp R0, R3
+    jne Inimigo1_Continua
+    loadn R0, #26               ; Retorna ao topo da tela
+
+Inimigo1_Continua:
+    store posInimigo1, R0       ; Atualiza posição
+    loadn R5, #1                ; Identifica o inimigo 1
+    call excluiInimigo          ; Apaga a posição anterior do inimigo
+    call criaInimigo            ; Redesenha o inimigo 1
+
+    pop R3
+    pop R2
+    pop R1
+    pop R0
+    rts
+
+MoveInimigo2:
+    push R0
+    push R1
+    push R2
+    push R3
+
+    load R0, posInimigo2        ; Carrega a posição atual
+    store posAntInimigo2, R0    ; Atualiza a posição anterior com a posição atual
+    loadn R2, #40               ; Velocidade do inimigo 2
+    add R0, R0, R2              ; Move o inimigo para baixo
+    loadn R3, #1181             ; Limite inferior da tela
+    cmp R0, R3
+    jne Inimigo2_Continua
+    loadn R0, #21               ; Retorna ao topo da tela
+
+Inimigo2_Continua:
+    store posInimigo2, R0       ; Atualiza posição
+    loadn R5, #2                ; Identifica o inimigo 2
+    call excluiInimigo          ; Apaga a posição anterior do inimigo
+    call criaInimigo            ; Redesenha o inimigo 2
+
+    pop R3
+    pop R2
+    pop R1
+    pop R0
+    rts
+
+MoveInimigo3:
+    push R0
+    push R1
+    push R2
+    push R3
+
+    load R0, posInimigo3        ; Carrega a posição atual
+    store posAntInimigo3, R0    ; Atualiza a posição anterior com a posição atual
+    loadn R2, #40               ; Velocidade do inimigo 2
+    add R0, R0, R2              ; Move o inimigo para baixo
+    loadn R3, #1176             ; Limite inferior da tela
+    cmp R0, R3
+    jne Inimigo3_Continua
+    loadn R0, #16               ; Retorna ao topo da tela
+
+Inimigo3_Continua:
+    store posInimigo3, R0       ; Atualiza posição
+    loadn R5, #3                ; Identifica o inimigo 2
+    call excluiInimigo          ; Apaga a posição anterior do inimigo
+    call criaInimigo            ; Redesenha o inimigo 2
+
+    pop R3
+    pop R2
+    pop R1
+    pop R0
+    rts
+
+MoveInimigo4:
+    push R0
+    push R1
+    push R2
+    push R3
+
+    load R0, posInimigo4        ; Carrega a posição atual
+    store posAntInimigo4, R0    ; Atualiza a posição anterior com a posição atual
+    loadn R2, #40               ; Velocidade do inimigo 2
+    add R0, R0, R2              ; Move o inimigo para baixo
+    loadn R3, #1171             ; Limite inferior da tela
+    cmp R0, R3
+    jne Inimigo4_Continua
+    loadn R0, #131               ; Retorna ao topo da tela
+
+Inimigo4_Continua:
+    store posInimigo4, R0       ; Atualiza posição
+    loadn R5, #4                ; Identifica o inimigo 2
+    call excluiInimigo          ; Apaga a posição anterior do inimigo
+    call criaInimigo            ; Redesenha o inimigo 2
+
+    pop R3
+    pop R2
+    pop R1
+    pop R0
+    rts
+
+; Rotina de detecção de colisão
+DetectaColisao:
+    push R0
+    push R1
+    push R2
+    push R3
+    push R4
+    push R5
+
+    loadn R3, #10            ; Tamanho do vetor de sobreposição
+    loadn R4, #0             ; Inicializa o índice do vetor
+
+; Funciona basicamente como um loop dentro de um loop que verifica a sobreposição do carro com os inimigos
+ColisaoLoop:
+    ; Calcula a posição absoluta usando o vetor de sobreposição
+    load R0, posCarro        ; Posição do carro (ou torre)
+    loadn R1, #sobrePrincipal  ; Ponteiro para o vetor de sobreposição
+    add R1, R1, R4           ; Avança no vetor conforme o índice
+    loadi R2, R1             ; Carrega o deslocamento atual do vetor
+    add R2, R0, R2           ; Calcula a posição absoluta
+
+    ; Verifica colisão com inimigo 1
+    load R5, posInimigo1
+    call detectarSobreposicao
+
+    ; Verifica colisão com inimigo 2
+    load R5, posInimigo2
+    call detectarSobreposicao
+    ; Verifica colisão com inimigo 3
+    load R5, posInimigo3
+    call detectarSobreposicao
+
+    ; Verifica colisão com inimigo 4
+    load R5, posInimigo4
+    call detectarSobreposicao
+
+    ; Incrementa o índice do vetor e verifica o próximo deslocamento
+    inc R4
+    cmp R4, R3
+    jne ColisaoLoop          ; Continua se ainda houver deslocamentos no vetor
+
+    ; Sai do loop sem colisão
+    jmp ColisaoFim
+
+ColisaoDetectada:
+    call rotinaDerrota        ; Aciona rotina de derrota (ou outra ação desejada)
+    jmp ColisaoFim
+
+ColisaoFim:
+    pop R5
+    pop R4
+    pop R3
+    pop R2
+    pop R1
+    pop R0
+    rts
+
+; Detecta sobreposição entre dois objetos
+detectarSobreposicao: ; R5 contém a posição do objeto a ser comparado
+  push R1
+  push R3
+  push R4
+  push R6
+
+  loadn R3, #10            ; Tamanho do vetor de sobreposição
+  loadn R4, #0             ; Inicializa o índice do vetor
+
+detectarSobreposicaoLoop:
+  loadn R1, #sobreInimigo  ; Ponteiro para o vetor de sobreposição
+  add R1, R1, R4           ; Avança no vetor conforme o índice
+  loadi R6, R1             ; Carrega o deslocamento atual do vetor
+  add R6, R5, R6           ; Calcula a posição absoluta
+
+  cmp R2, R6
+  jeq ColisaoDetectada
+
+  ; Incrementa o índice do vetor e verifica o próximo deslocamento
+  inc R4
+  cmp R4, R3
+  jne detectarSobreposicaoLoop
+
+  ; Retorno seguro
+  pop R6
+  pop R4
+  pop R3
+  pop R1
+  rts
+
+
+;Rotina de derrota
+rotinaDerrota:
+
+  push R5
+  push R6
+
+  call ApagaTela
+
+  ;Imprime a tela de derrota
+  loadn R0, #derrota
+  call prinTela
+
+  ; Imprime a pontuação
+  load R5, score
+  loadn R6, #621
+
+  call PrintR5R6
+
+  ; Espera entrada do usuário
+  call keyboard
+
+  ;Caso queira começar o jogo, vai para a função startGame
+  loadn r5, #'1'
+  cmp r3, r5
+  jeq startGame
+
+  pop R6
+  pop R5
+
+  jmp main
