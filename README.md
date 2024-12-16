@@ -40,7 +40,55 @@ Abaixo está a estrutura do projeto com uma breve explicação do conteúdo de c
 
 ## <div id="instalacao"></div>Instalação
 
-Em construção...
+### **1. Clonar o Repositório**
+
+Para obter o projeto em sua máquina, execute:  
+```bash
+git clone https://github.com/MatheusPaivaa/StCharles_Racing.git
+cd StCharles_Racing
+```
+
+---
+
+### **2. Utilizando o Makefile**
+
+Abaixo estão os comandos disponíveis para compilar, executar e gerenciar o projeto:
+
+- **Compilar o projeto**  
+  Gera o arquivo `.mif` compilado.  
+  ```bash
+  make
+  ```
+
+- **Executar o simulador**  
+  Roda o programa no simulador.  
+  ```bash
+  make run
+  ```
+
+- **Compilar e executar em modo de desenvolvimento**  
+  Compila o código e executa o simulador.  
+  ```bash
+  make dev
+  ```
+
+- **Empacotar o projeto**  
+  Cria um arquivo `.zip` com todos os arquivos do projeto.  
+  ```bash
+  make zip
+  ```
+
+- **Limpar os arquivos gerados**  
+  Remove a pasta `bin/` e o arquivo `.zip`.  
+  ```bash
+  make clean
+  ```
+
+---
+
+### **3. Pré-requisitos**
+
+Certifique-se de ter o **Make**, montador e simulador configurados corretamente no ambiente. Para mais detalhes, consulte o repositório [Processador-ICMC](https://github.com/simoesusp/Processador-ICMC).
 
 ## <div id="uso"></div>Uso
 
@@ -167,7 +215,28 @@ Em construção...
 
 ## <div id="pontos_importantes"></div>Pontos importantes
 
-Em construção...
+Nesta seção, destacamos algumas informações essenciais sobre o desenvolvimento do projeto e as ferramentas utilizadas.
+
+### **1. Criação dos Cenários**  
+Para facilitar a criação dos cenários utilizados no jogo, foi utilizado o repositório **[Create-Screens-in-Assembly-with-Python](https://github.com/GustavoSelhorstMarconi/Create-Screens-in-Assembly-with-python)**, que permite gerar telas em Assembly por meio de scripts em Python.  
+
+Essa ferramenta foi fundamental para agilizar o processo de construção e organização das telas, garantindo uma implementação eficiente e visualmente estruturada no código-fonte.
+
+---
+
+### **2. Funcionamento do Processador, Montador e Simulador**  
+Todas as informações relacionadas ao processador utilizado no projeto, bem como seu montador e simulador, podem ser encontradas no repositório:  
+**[Processador-ICMC](https://github.com/simoesusp/Processador-ICMC)**.
+
+Este repositório fornece:  
+- Detalhes sobre o funcionamento do processador.  
+- Documentação completa do montador e do simulador.  
+- Exemplos e instruções de uso para implementar e testar códigos Assembly.
+
+---
+
+Esses recursos foram essenciais para o desenvolvimento do jogo, fornecendo tanto ferramentas práticas para criação dos cenários quanto uma base sólida para a execução e teste do projeto.
+
 
 ## <div id="processador"></div>Processador
 
