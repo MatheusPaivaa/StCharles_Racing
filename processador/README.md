@@ -6,7 +6,7 @@ Este projeto consiste na **construção do hardware de um processador** utilizan
 ## Etapas do Projeto
 
 1. **Desenvolvimento em VHDL**  
-   O processador foi modelado utilizando a linguagem de descrição de hardware **VHDL**.
+   O processador foi modelado utilizando a linguagem de descrição de hardware **VHDL**. A maioria das modificações estão localizadas no arquivo **cpu.vhd** dentro da pasta DE0_CV (Modelo da FPGA).
 
 2. **Implementação na FPGA**  
    A síntese do projeto foi realizada em uma **FPGA**, possibilitando a validação física e funcional do processador.

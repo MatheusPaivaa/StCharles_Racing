@@ -6027,7 +6027,7 @@ MoveInimigo1:
     store posAntInimigo1, R1    ; Atualiza a posição anterior com a atual
     loadn R2, #40               ; Velocidade do inimigo 1
     add R0, R0, R2              ; Move o inimigo para baixo
-    loadn R3, #1186             ; Limite inferior da tela
+    loadn R3, #1106             ; Limite inferior da tela
     cmp R0, R3
     jne Inimigo1_Continua
     loadn R0, #26               ; Retorna ao topo da tela
@@ -6054,7 +6054,7 @@ MoveInimigo2:
     store posAntInimigo2, R0    ; Atualiza a posição anterior com a posição atual
     loadn R2, #40               ; Velocidade do inimigo 2
     add R0, R0, R2              ; Move o inimigo para baixo
-    loadn R3, #1181             ; Limite inferior da tela
+    loadn R3, #1101             ; Limite inferior da tela
     cmp R0, R3
     jne Inimigo2_Continua
     loadn R0, #21               ; Retorna ao topo da tela
@@ -6081,7 +6081,7 @@ MoveInimigo3:
     store posAntInimigo3, R0    ; Atualiza a posição anterior com a posição atual
     loadn R2, #40               ; Velocidade do inimigo 2
     add R0, R0, R2              ; Move o inimigo para baixo
-    loadn R3, #1176             ; Limite inferior da tela
+    loadn R3, #1096             ; Limite inferior da tela
     cmp R0, R3
     jne Inimigo3_Continua
     loadn R0, #16               ; Retorna ao topo da tela
@@ -6108,7 +6108,7 @@ MoveInimigo4:
     store posAntInimigo4, R0    ; Atualiza a posição anterior com a posição atual
     loadn R2, #40               ; Velocidade do inimigo 2
     add R0, R0, R2              ; Move o inimigo para baixo
-    loadn R3, #1171             ; Limite inferior da tela
+    loadn R3, #1091             ; Limite inferior da tela
     cmp R0, R3
     jne Inimigo4_Continua
     loadn R0, #131               ; Retorna ao topo da tela
