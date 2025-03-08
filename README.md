@@ -239,8 +239,28 @@ Esses recursos foram essenciais para o desenvolvimento do jogo, fornecendo tanto
 
 
 ## <div id="processador"></div>Processador
+Este processador foi desenvolvido com base nas aulas do Professor Simões e implementado utilizando o software Quartus. Para executar o processador corretamente, siga os seguintes passos:
 
-Em construção...
+### Passos para Execução
+
+1. Escreva o programa normalmente utilizando o editor de texto, salvando-o no formato `.ASM`.
+2. Utilize a tecla `F7` para montar o arquivo binário (`.MIF`) e simular seu funcionamento antes de compilá-lo no Quartus.
+3. Renomeie o arquivo gerado (`nome.MIF`) para `CPURAM.MIF`.
+4. Copie o arquivo `CPURAM.MIF` para a pasta do projeto no Quartus.
+5. Compile o projeto dentro do Quartus.
+6. Programe a placa e reinicialize-a para garantir o correto funcionamento.
+7. Altere a entrada do monitor para VGA para visualizar a execução corretamente.
+
+### Imagens de Funcionamento
+
+Abaixo, algumas imagens do processador em execução. Todos os arquivos necessários estão disponíveis na pasta `processador` deste repositório.
+
+<p align="center">
+   <img align="center" text-align="center" width="40%" style="margin-right:50px;" src="https://github.com/MatheusPaivaa/StCharles_Racing/blob/main/imgs/img1.jpeg">
+   <img align="center" text-align="center" width="40%" src="https://github.com/MatheusPaivaa/StCharles_Racing/blob/main/imgs/img2.jpeg">
+     <img align="center" text-align="center" width="40%" style="margin-right:50px;" src="https://github.com/MatheusPaivaa/StCharles_Racing/blob/main/imgs/img3.jpeg">
+   <img align="center" text-align="center" width="40%" src="https://github.com/MatheusPaivaa/StCharles_Racing/blob/main/imgs/img4.jpeg">
+</p>
 
 ## <div id="video"></div>Vídeo de apresentação
 Link: [Adicionar]
