@@ -256,7 +256,7 @@ Este processador foi desenvolvido com base nas aulas do Professor Simões e impl
 Abaixo, algumas imagens do processador em execução. Todos os arquivos necessários estão disponíveis na pasta `processador` deste repositório.
 
 <p align="center">
-   <img align="center" text-align="center" width="40%" style="margin-right:50px;" src="https://github.com/MatheusPaivaa/StCharles_Racing/blob/main/imgs/img1.jpeg">
+   <img align="center" text-align="center" width="40%" height="50%" style="margin-right:50px;" src="https://github.com/MatheusPaivaa/StCharles_Racing/blob/main/imgs/img.jpeg">
    <img align="center" text-align="center" width="40%" src="https://github.com/MatheusPaivaa/StCharles_Racing/blob/main/imgs/img2.jpeg">
      <img align="center" text-align="center" width="40%" style="margin-right:50px;" src="https://github.com/MatheusPaivaa/StCharles_Racing/blob/main/imgs/img3.jpeg">
    <img align="center" text-align="center" width="40%" src="https://github.com/MatheusPaivaa/StCharles_Racing/blob/main/imgs/img4.jpeg">
