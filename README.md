@@ -262,6 +262,13 @@ Abaixo, algumas imagens do processador em execução. Todos os arquivos necessá
    <img align="center" text-align="center" width="40%" src="https://github.com/MatheusPaivaa/StCharles_Racing/blob/main/imgs/img4.jpeg">
 </p>
 
+<b>Obs:</b> Ao passar o jogo do Simulador para a FPGA tivemos que diminuir o delay entre os movimentos (do nosso personagem, inimigos e score), isso pode mudar de jogo para jogo. No nosso caso, diminuimos para um delay de 40 e um decrementador de 10.
+
+<p align="center">
+   <img align="center" text-align="center" width="40%" height="50%" style="margin-right:50px;" src="https://github.com/MatheusPaivaa/StCharles_Racing/blob/main/imgs/antes_depois.png">
+
+</p>
+
 ## <div id="video"></div>Vídeo de apresentação
 Link: [Adicionar]
 
